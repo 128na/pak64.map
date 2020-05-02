@@ -1,0 +1,16 @@
+{
+  "name": "pak64.map",
+  "version": "1.0.0",
+  "description": "64px Map like pakset",
+  "scripts": {
+    "build": "run-s makeobj copy",
+    "makeobj": "node js/makeobj.js",
+    "copy": "node js/copy.js"
+  },
+  "author": "128Na",
+  "license": "",
+  "dependencies": {
+    "fs-extra": "^9.0.0",
+    "npm-run-all": "^4.1.5"
+  }
+}

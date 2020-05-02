@@ -1,0 +1,6 @@
+-------------
+# マップ外
+Obj=ground
+Name=Outside
+Copyright=128na
+Image[0][0]=outside.0.0

@@ -1,0 +1,23 @@
+# 役所
+Obj=building
+Name=city
+Type=tow
+Build_Time=0
+Passengers=20
+Chance=100
+Dims=1,1,1
+Needs_ground=1
+FrontImage[0][0][0][0][0]=../marker.1.1
+BackImage[0][0][0][0][0]=../misc/pavement.0.0
+-----------------------------------------------------
+Obj=building
+Name=headquarter
+NoInfo=1
+Type=hq
+Hq_level=0
+NoConstruction=0
+Passengers=20
+Dims=1,1,1
+Needs_ground=1
+FrontImage[0][0][0][0][0]=../marker.1.0
+BackImage[0][0][0][0][0]=../misc/pavement.0.0

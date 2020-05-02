@@ -1,0 +1,134 @@
+Obj=menu
+name=GeneralTools
+Image[0]=> menu.0.0
+Image[1]=> menu.0.1
+Image[2]=> menu.0.2
+Image[3]=> menu.0.3
+Image[4]=> menu.0.4
+Image[5]=> menu.0.5
+Image[6]=-
+Image[7]=> menu.0.7
+Image[8]=> menu.0.8
+Image[9]=> menu.0.9
+Image[10]=> menu.0.10
+Image[11]=> menu.0.11
+Image[12]=> menu.0.12
+Image[13]=> menu.0.13
+Image[14]=> menu.0.14
+Image[15]=> menu.0.15
+# buy house
+Image[16]=> menu.3.20
+Image[17]=> menu.3.21
+Image[18]=> menu.0.16
+--
+Obj=menu
+name=SimpleTools
+Image[0]=> menu.1.0
+Image[1]=> menu.1.1
+Image[2]=> menu.1.2
+Image[3]=> menu.1.3
+Image[4]=> menu.1.4
+Image[5]=> menu.1.5
+Image[6]=> menu.1.6
+Image[7]=> menu.1.7
+Image[8]=> menu.1.8
+Image[9]=> menu.1.9
+Image[10]=> menu.1.10
+Image[11]=> menu.1.11
+--
+Obj=menu
+name=DialogeTools
+Image[0]=> menu.2.0
+Image[1]=> menu.2.1
+Image[2]=> menu.2.2
+Image[3]=> menu.2.3
+Image[4]=> menu.2.4
+Image[5]=> menu.2.5
+Image[6]=> menu.2.6
+Image[7]=> -
+Image[8]=> -
+Image[9]=> -
+Image[10]=> -
+Image[11]=> -
+# load/save
+Image[12]=> menu.3.11
+Image[13]=> menu.3.12
+# lists
+Image[14]=> menu.2.13
+Image[15]=> menu.2.14
+Image[16]=> menu.2.15
+Image[17]=> menu.2.16
+Image[18]=> menu.2.17
+Image[19]=> menu.2.18
+Image[20]=> menu.2.10
+# map editor
+Image[21]=> menu.2.19
+Image[22]=> menu.2.20
+Image[23]=> menu.2.21
+Image[24]=> menu.2.22
+Image[25]=> menu.2.23
+Image[26]=> menu.3.14
+# network and scenario
+Image[27]=> menu.3.14
+Image[28]=> menu.3.15
+Image[29]=> menu.1.14
+# depot and vehicle lists
+Image[30]=> menu.3.16
+Image[31]=> menu.3.17
+--
+Obj=menu
+name=BarTools
+Image[0]=> menu.3.0
+Image[1]=> menu.3.1
+Image[2]=> menu.3.2
+Image[3]=> menu.3.3
+Image[4]=> menu.3.4
+Image[5]=> menu.3.5
+Image[6]=> menu.3.6
+Image[7]=> menu.3.7
+Image[8]=> menu.3.8
+Image[9]=> menu.3.9
+# slope tool icon
+Image[10]=> menu.4.0
+Image[11]=> menu.4.1
+Image[12]=> menu.4.2
+Image[13]=> menu.4.3
+Image[14]=> menu.4.4
+Image[15]=> menu.4.5
+# wayremover tool icons
+Image[16]=> menu.4.6
+Image[17]=> menu.4.7
+Image[18]=> menu.4.8
+Image[19]=> menu.4.9
+Image[20]=> menu.4.10
+Image[21]=> menu.4.11
+Image[22]=-
+Image[23]=-
+Image[24]=> menu.4.14
+# increase decrease population
+Image[25]=> menu.4.15
+Image[26]=> menu.4.16
+# builds city road
+Image[27]=> menu.4.17
+# wayobjectremover tool icons
+Image[28]=> menu.4.12
+# world editor
+Image[29]=> menu.1.12
+#water level
+Image[30]=> menu.6.8
+Image[31]=> menu.6.9
+#alter climate
+Image[32]=> menu.6.7
+Image[33]=> menu.6.0
+Image[34]=> menu.6.1
+Image[35]=> menu.6.2
+Image[36]=> menu.6.3
+Image[37]=> menu.6.4
+Image[38]=> menu.6.5
+Image[39]=> menu.6.6
+#double slopes
+Image[40]=> menu.5.0
+Image[41]=> menu.5.1
+Image[42]=> menu.5.2
+Image[43]=> menu.5.3
+--

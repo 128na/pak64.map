@@ -1,0 +1,453 @@
+# ■
+Obj=building
+Name=res_1x1-1-1
+type=res
+chance=100
+Level=1
+BackImage[0][0][0][0][0]=1xL.0.7
+---------
+# ■■
+Obj=building
+Name=res_2x1-2-1
+type=res
+chance=100
+Level=1
+dims=2,1,2
+BackImage[0][0][0][0][0]=1xL.0.8
+BackImage[0][0][1][0][0]=1xL.0.11
+BackImage[1][0][0][0][0]=1xL.0.9
+BackImage[1][1][0][0][0]=1xL.0.10
+---------
+# ■■
+# ■□
+Obj=building
+Name=res_2x2_3-1
+type=res
+chance=100
+Level=1
+dims=2,2,4
+BackImage[0][0][1][0][0]=1xL.0.9
+BackImage[0][1][0][0][0]=1xL.0.8
+BackImage[0][1][1][0][0]=1xL.0.2
+BackImage[1][0][0][0][0]=1xL.0.8
+BackImage[1][0][1][0][0]=1xL.0.1
+BackImage[1][1][1][0][0]=1xL.0.10
+BackImage[2][0][0][0][0]=1xL.0.0
+BackImage[2][0][1][0][0]=1xL.0.11
+BackImage[2][1][0][0][0]=1xL.0.10
+BackImage[3][0][0][0][0]=1xL.0.9
+BackImage[3][1][0][0][0]=1xL.0.3
+BackImage[3][1][1][0][0]=1xL.0.11
+---------
+# ■■
+# ■■
+Obj=building
+Name=res_2x2_4-1
+type=res
+chance=100
+Level=1
+dims=2,2,1
+BackImage[0][0][0][0][0]=3x3.0.0
+BackImage[0][0][1][0][0]=3x3.0.2
+BackImage[0][1][0][0][0]=3x3.2.0
+BackImage[0][1][1][0][0]=3x3.2.2
+---------
+# ■■■
+Obj=building
+Name=res_3x1_3-1
+type=res
+chance=100
+Level=1
+dims=3,1,2
+BackImage[0][0][0][0][0]=1xL.0.8
+BackImage[0][0][1][0][0]=1xL.0.5
+BackImage[0][0][2][0][0]=1xL.0.11
+BackImage[1][0][0][0][0]=1xL.0.9
+BackImage[1][1][0][0][0]=1xL.0.4
+BackImage[1][2][0][0][0]=1xL.0.10
+---------
+# ■■■
+# ■□□
+Obj=building
+Name=res_3x2_4-1
+type=res
+chance=100
+Level=1
+dims=3,2,8
+BackImage[0][0][0][0][0]=1xL.0.9
+BackImage[0][1][0][0][0]=1xL.0.3
+BackImage[0][1][1][0][0]=1xL.0.5
+BackImage[0][1][2][0][0]=1xL.0.11
+BackImage[1][0][1][0][0]=1xL.0.9
+BackImage[1][1][1][0][0]=1xL.0.4
+BackImage[1][2][0][0][0]=1xL.0.8
+BackImage[1][2][1][0][0]=1xL.0.2
+BackImage[2][0][0][0][0]=1xL.0.8
+BackImage[2][0][1][0][0]=1xL.0.5
+BackImage[2][0][2][0][0]=1xL.0.1
+BackImage[2][1][2][0][0]=1xL.0.10
+BackImage[3][0][0][0][0]=1xL.0.0
+BackImage[3][0][1][0][0]=1xL.0.11
+BackImage[3][1][0][0][0]=1xL.0.4
+BackImage[3][2][0][0][0]=1xL.0.10
+BackImage[4][0][2][0][0]=1xL.0.9
+BackImage[4][1][0][0][0]=1xL.0.8
+BackImage[4][1][1][0][0]=1xL.0.5
+BackImage[4][1][2][0][0]=1xL.0.2
+BackImage[5][0][0][0][0]=1xL.0.8
+BackImage[5][0][1][0][0]=1xL.0.1
+BackImage[5][1][1][0][0]=1xL.0.4
+BackImage[5][2][1][0][0]=1xL.0.10
+BackImage[6][0][0][0][0]=1xL.0.0
+BackImage[6][0][1][0][0]=1xL.0.5
+BackImage[6][0][2][0][0]=1xL.0.11
+BackImage[6][1][0][0][0]=1xL.0.10
+BackImage[7][0][0][0][0]=1xL.0.9
+BackImage[7][1][0][0][0]=1xL.0.4
+BackImage[7][2][0][0][0]=1xL.0.3
+BackImage[7][2][1][0][0]=1xL.0.11
+---------
+# ■■□
+# □■■
+Obj=building
+Name=res_3x2_4-2
+type=res
+chance=100
+Level=1
+dims=3,2,8
+BackImage[0][0][1][0][0]=1xL.0.0
+BackImage[0][0][2][0][0]=1xL.0.11
+BackImage[0][1][0][0][0]=1xL.0.8
+BackImage[0][1][1][0][0]=1xL.0.2
+BackImage[1][0][0][0][0]=1xL.0.9
+BackImage[1][1][0][0][0]=1xL.0.3
+BackImage[1][1][1][0][0]=1xL.0.1
+BackImage[1][2][1][0][0]=1xL.0.10
+BackImage[2][0][1][0][0]=1xL.0.0
+BackImage[2][0][2][0][0]=1xL.0.11
+BackImage[2][1][0][0][0]=1xL.0.8
+BackImage[2][1][1][0][0]=1xL.0.2
+BackImage[3][0][0][0][0]=1xL.0.9
+BackImage[3][1][0][0][0]=1xL.0.3
+BackImage[3][1][1][0][0]=1xL.0.1
+BackImage[3][2][1][0][0]=1xL.0.10
+BackImage[4][0][0][0][0]=1xL.0.8
+BackImage[4][0][1][0][0]=1xL.0.1
+BackImage[4][1][1][0][0]=1xL.0.3
+BackImage[4][1][2][0][0]=1xL.0.11
+BackImage[5][0][1][0][0]=1xL.0.9
+BackImage[5][1][0][0][0]=1xL.0.0
+BackImage[5][1][1][0][0]=1xL.0.2
+BackImage[5][2][0][0][0]=1xL.0.10
+BackImage[6][0][0][0][0]=1xL.0.8
+BackImage[6][0][1][0][0]=1xL.0.1
+BackImage[6][1][1][0][0]=1xL.0.3
+BackImage[6][1][2][0][0]=1xL.0.11
+BackImage[7][0][1][0][0]=1xL.0.9
+BackImage[7][1][0][0][0]=1xL.0.0
+BackImage[7][1][1][0][0]=1xL.0.2
+BackImage[7][2][0][0][0]=1xL.0.10
+---------
+# ■■■
+# □■□
+Obj=building
+Name=res_3x2_4-3
+type=res
+chance=100
+Level=1
+dims=3,2,4
+BackImage[0][0][1][0][0]=1xL.0.9
+BackImage[0][1][0][0][0]=1xL.0.8
+BackImage[0][1][1][0][0]=1xL.2.3
+BackImage[0][1][2][0][0]=1xL.0.11
+BackImage[1][0][1][0][0]=1xL.0.9
+BackImage[1][1][0][0][0]=1xL.0.8
+BackImage[1][1][1][0][0]=1xL.2.2
+BackImage[1][2][1][0][0]=1xL.0.10
+BackImage[2][0][0][0][0]=1xL.0.8
+BackImage[2][0][1][0][0]=1xL.2.1
+BackImage[2][0][2][0][0]=1xL.0.11
+BackImage[2][1][1][0][0]=1xL.0.10
+BackImage[3][0][0][0][0]=1xL.0.9
+BackImage[3][1][0][0][0]=1xL.2.0
+BackImage[3][1][1][0][0]=1xL.0.11
+BackImage[3][2][0][0][0]=1xL.0.10
+---------
+# ■■■
+# ■■□
+Obj=building
+Name=res_3x2_5-1
+type=res
+chance=100
+Level=1
+dims=3,2,8
+BackImage[0][0][0][0][0]=3x3.0.0
+BackImage[0][0][1][0][0]=3x3.0.2
+BackImage[0][1][0][0][0]=3x3.2.0
+BackImage[0][1][1][0][0]=1xL.1.7
+BackImage[0][1][2][0][0]=1xL.0.11
+BackImage[1][0][1][0][0]=1xL.0.9
+BackImage[1][1][0][0][0]=3x3.0.0
+BackImage[1][1][1][0][0]=1xL.1.10
+BackImage[1][2][0][0][0]=3x3.2.0
+BackImage[1][2][1][0][0]=3x3.2.2
+BackImage[2][0][0][0][0]=1xL.0.8
+BackImage[2][0][1][0][0]=1xL.1.5
+BackImage[2][0][2][0][0]=3x3.0.2
+BackImage[2][1][1][0][0]=3x3.2.0
+BackImage[2][1][2][0][0]=3x3.2.2
+BackImage[3][0][0][0][0]=3x3.0.0
+BackImage[3][0][1][0][0]=3x3.0.2
+BackImage[3][1][0][0][0]=1xL.1.8
+BackImage[3][1][1][0][0]=3x3.2.2
+BackImage[3][2][0][0][0]=1xL.0.10
+BackImage[4][0][1][0][0]=3x3.0.0
+BackImage[4][0][2][0][0]=3x3.0.2
+BackImage[4][1][0][0][0]=1xL.0.8
+BackImage[4][1][1][0][0]=1xL.1.6
+BackImage[4][1][2][0][0]=3x3.2.2
+BackImage[5][0][0][0][0]=3x3.0.0
+BackImage[5][0][1][0][0]=3x3.0.2
+BackImage[5][1][0][0][0]=3x3.2.0
+BackImage[5][1][1][0][0]=1xL.1.9
+BackImage[5][2][1][0][0]=1xL.10
+BackImage[6][0][0][0][0]=3x3.0.0
+BackImage[6][0][1][0][0]=1xL.1.4
+BackImage[6][0][2][0][0]=1xL.0.11
+BackImage[6][1][0][0][0]=3x3.2.0
+BackImage[6][1][1][0][0]=3x3.2.2
+BackImage[7][0][0][0][0]=1xL.0.9
+BackImage[7][1][0][0][0]=1xL.1.11
+BackImage[7][1][1][0][0]=3x3.0.2
+BackImage[7][2][0][0][0]=3x3.2.0
+BackImage[7][2][1][0][0]=3x3.2.2
+---------
+# ■■■
+# ■□■
+Obj=building
+Name=res_3x2_5-2
+type=res
+chance=100
+Level=1
+dims=3,2,4
+BackImage[0][0][0][0][0]=1xL.0.9
+BackImage[0][0][2][0][0]=1xL.0.9
+BackImage[0][1][0][0][0]=1xL.0.3
+BackImage[0][1][1][0][0]=1xL.0.5
+BackImage[0][1][2][0][0]=1xL.0.2
+BackImage[1][0][0][0][0]=1xL.0.8
+BackImage[1][0][1][0][0]=1xL.0.1
+BackImage[1][1][1][0][0]=1xL.0.4
+BackImage[1][2][0][0][0]=1xL.0.8
+BackImage[1][2][1][0][0]=1xL.0.2
+BackImage[2][0][0][0][0]=1xL.0.0
+BackImage[2][0][1][0][0]=1xL.0.5
+BackImage[2][0][2][0][0]=1xL.0.1
+BackImage[2][1][0][0][0]=1xL.0.10
+BackImage[2][1][2][0][0]=1xL.0.10
+BackImage[3][0][0][0][0]=1xL.0.0
+BackImage[3][0][1][0][0]=1xL.0.11
+BackImage[3][1][0][0][0]=1xL.0.4
+BackImage[3][2][0][0][0]=1xL.0.3
+BackImage[3][2][1][0][0]=1xL.0.11
+---------
+# ■■■
+# ■■■
+Obj=building
+Name=res_3x2_6-1
+type=res
+chance=100
+Level=1
+dims=3,2,2
+BackImage[0][0][0][0][0]=3x3.0.0
+BackImage[0][0][1][0][0]=3x3.0.1
+BackImage[0][0][2][0][0]=3x3.0.2
+BackImage[0][1][0][0][0]=3x3.2.0
+BackImage[0][1][1][0][0]=3x3.2.1
+BackImage[0][1][2][0][0]=3x3.2.2
+BackImage[1][0][0][0][0]=3x3.0.0
+BackImage[1][0][1][0][0]=3x3.0.2
+BackImage[1][1][0][0][0]=3x3.1.0
+BackImage[1][1][1][0][0]=3x3.1.2
+BackImage[1][2][0][0][0]=3x3.2.0
+BackImage[1][2][1][0][0]=3x3.2.2
+---------
+# ■■■
+# ■□□
+# ■□□
+# Name=res_3x3_1
+Obj=building
+Name=res_3x3_5-1
+type=res
+chance=100
+Level=1
+dims=3,3,4
+BackImage[0][0][2][0][0]=1xL.0.9
+BackImage[0][1][2][0][0]=1xL.0.4
+BackImage[0][2][0][0][0]=1xL.0.8
+BackImage[0][2][1][0][0]=1xL.0.5
+BackImage[0][2][2][0][0]=1xL.0.2
+
+BackImage[1][0][0][0][0]=1xL.0.8
+BackImage[1][0][1][0][0]=1xL.0.5
+BackImage[1][0][2][0][0]=1xL.0.1
+BackImage[1][1][2][0][0]=1xL.0.4
+BackImage[1][2][2][0][0]=1xL.0.10
+
+BackImage[2][0][0][0][0]=1xL.0.0
+BackImage[2][0][1][0][0]=1xL.0.5
+BackImage[2][0][2][0][0]=1xL.0.11
+BackImage[2][1][0][0][0]=1xL.0.4
+BackImage[2][2][0][0][0]=1xL.0.10
+
+BackImage[3][0][0][0][0]=1xL.0.9
+BackImage[3][1][0][0][0]=1xL.0.4
+BackImage[3][2][0][0][0]=1xL.0.3
+BackImage[3][2][1][0][0]=1xL.0.5
+BackImage[3][2][2][0][0]=1xL.0.11
+---------
+# □■■
+# ■■□
+# ■□□
+# Name=res_3x3_5-2
+---------
+# □□■
+# ■■■
+# ■□□
+# Name=res_3x3_5-3
+---------
+# □■□
+# ■■■
+# □■□
+Obj=building
+Name=res_3x3_5-5
+type=res
+chance=100
+Level=1
+dims=3,3,1
+BackImage[0][0][1][0][0]=1xL.0.9
+BackImage[0][1][0][0][0]=1xL.0.8
+BackImage[0][1][1][0][0]=1xL.0.6
+BackImage[0][1][2][0][0]=1xL.0.11
+BackImage[0][2][1][0][0]=1xL.0.10
+---------
+# ■■■
+# ■■□
+# ■□□
+# Name=res_3x3_6-1
+---------
+# ■■■
+# ■■□
+# □■□
+# Name=res_3x3_6-2
+---------
+# ■■□
+# ■■■
+# □■□
+# Name=res_3x3_6-3
+---------
+# ■■□
+# ■■□
+# □■■
+# Name=res_3x3_6-4
+---------
+# ■■□
+# □■■
+# ■■□
+# Name=res_3x3_6-5
+---------
+# ■■■
+# ■□■
+# ■□□
+# Name=res_3x3_6-6
+---------
+# ■■■
+# ■■■
+# ■□□
+# Name=res_3x3_7-1
+---------
+# ■■■
+# ■■■
+# □■□
+# Name=res_3x3_7-2
+---------
+# ■■□
+# ■■■
+# □■■
+# Name=res_3x3_7-3
+---------
+# ■■□
+# ■■■
+# ■□■
+# Name=res_3x3_7-4
+---------
+# ■□■
+# ■■■
+# ■□■
+# Name=res_3x3_7-5
+---------
+# ■■■
+# ■□■
+# ■□■
+# Name=res_3x3_7-6
+---------
+# ■■■
+# ■■■
+# ■■□
+# Name=res_3x3_8-1
+---------
+# ■■■
+# ■■■
+# ■□■
+# Name=res_3x3_8-2
+---------
+# ■■■
+# ■□■
+# ■■■
+Obj=building
+Name=res_3x3_8-3
+type=res
+chance=100
+Level=1
+dims=3,3,1
+BackImage[0][0][0][0][0]=1xL.0.0
+BackImage[0][0][1][0][0]=1xL.0.5
+BackImage[0][0][2][0][0]=1xL.0.1
+BackImage[0][1][0][0][0]=1xL.0.4
+BackImage[0][1][2][0][0]=1xL.0.4
+BackImage[0][2][0][0][0]=1xL.0.3
+BackImage[0][2][1][0][0]=1xL.0.5
+BackImage[0][2][2][0][0]=1xL.0.2
+---------
+# ■■■
+# ■■■
+# ■■■
+Obj=building
+Name=res_3x3_9-1
+type=res
+chance=100
+Level=1
+dims=3,3,1
+BackImage[0][0][0][0][0]=3x3.0.0
+BackImage[0][0][1][0][0]=3x3.0.1
+BackImage[0][0][2][0][0]=3x3.0.2
+BackImage[0][1][0][0][0]=3x3.1.0
+BackImage[0][1][1][0][0]=3x3.1.1
+BackImage[0][1][2][0][0]=3x3.1.2
+BackImage[0][2][0][0][0]=3x3.2.0
+BackImage[0][2][1][0][0]=3x3.2.1
+BackImage[0][2][2][0][0]=3x3.2.2
+---------
+Obj=building
+Name=ind_00_01
+type=ind
+chance=100
+Level=1
+BackImage[0][0][0][0][0]=1xL.0.7
+---------
+Obj=building
+Name=com_00_01
+type=com
+chance=100
+Level=1
+BackImage[0][0][0][0][0]=1xL.0.7
