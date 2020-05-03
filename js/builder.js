@@ -40,17 +40,32 @@ module.exports = class Dat {
     const { exec } = require('child_process');
     const successMsg = msg => console.log(`\u001b[32m${msg}\u001b[37m`);
     const failedMsg = msg => console.log(`\u001b[31m${msg}\u001b[37m`);
-    dats.forEach(dat => {
+    const promises = dats.map(dat => {
       const cmd = `makeobj pak64 ${dat.out} ${dat.in}`;
-      exec(cmd, (err, stdout, stderr) => {
-        console.log(cmd)
-        if (err) {
-          failedMsg(stderr);
-          return
-        }
-        // successMsg(stdout);
-      });
+      return new Promise((resolve, reject) => {
+        exec(cmd, (err, stdout, stderr) => {
+          if (err) {
+            console.log(cmd)
+            return reject(stderr);
+          }
+          return resolve(stdout);
+        });
+      })
     });
+
+    return new Promise((resolve, reject) => {
+      Promise.all(promises)
+        .then(stdouts => {
+          successMsg('success');
+          resolve();
+          // successMsg(stdouts);
+        })
+        .catch(stderrs => {
+          failedMsg(stderrs);
+          reject();
+        })
+    });
+
   }
 }
 
