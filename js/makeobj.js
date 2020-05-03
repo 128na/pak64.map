@@ -20,7 +20,7 @@ if (args.length && args.includes('watch')) {
           console.log(event, path)
           working = true;
           const dats = builder.getDat(root, dist);
-          await builder.makePak(dats, dist);
+          await builder.makePak(dats, dist).catch(e => { });
           builder.copyConfigDirectory(root, dist);
           working = false;
         }
