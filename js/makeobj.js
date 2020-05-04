@@ -1,5 +1,5 @@
 const root = './src';
-const dist = './dist';
+const dist = './pak64.map';
 
 const Builder = require('./builder');
 const fs = require('fs-extra');

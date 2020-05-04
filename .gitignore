@@ -1,4 +1,4 @@
 *.pak
 ref
-dist
+pak64.map
 node_modules
