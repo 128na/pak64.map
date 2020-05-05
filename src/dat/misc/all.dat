@@ -1,13 +1,13 @@
 # new construction site with symbols from MHz
 Obj=misc
 Name=Construction
-Image[0]=constructionsite_new.0.0
-Image[1]=constructionsite_new.0.1
-Image[2]=constructionsite_new.0.2
-Image[3]=constructionsite_new.0.3
-Image[4]=constructionsite_new.0.4
-Image[5]=constructionsite_new.0.5
-Image[6]=constructionsite_new.0.6
+Image[0]=construction.0.0
+Image[1]=construction.0.1
+Image[2]=construction.0.2
+Image[3]=construction.0.3
+Image[4]=construction.0.4
+Image[5]=construction.0.5
+Image[6]=construction.0.6
 --------------------
 Obj=misc
 Name=Sidewalk
