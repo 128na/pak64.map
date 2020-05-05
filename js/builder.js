@@ -32,14 +32,18 @@ module.exports = class Dat {
    * distディレクトリをクリアして作成、pak化
    */
   makePak(dats, dist) {
+    const successMsg = msg => console.log(`\u001b[32m${msg}\u001b[37m`);
+    const failedMsg = msg => console.log(`\u001b[31m${msg}\u001b[37m`);
     if (this.fs.existsSync(dist) && this.fs.statSync(dist).isDirectory()) {
-      this.fs.rmdirSync(dist, { recursive: true });
+      try {
+        this.fs.rmdirSync(dist, { recursive: true });
+      } catch (e) {
+        failedMsg('rmdir failed')
+      }
     }
     this.fs.mkdirSync(dist);
 
     const { exec } = require('child_process');
-    const successMsg = msg => console.log(`\u001b[32m${msg}\u001b[37m`);
-    const failedMsg = msg => console.log(`\u001b[31m${msg}\u001b[37m`);
     const promises = dats.map(dat => {
       const cmd = `makeobj pak64 ${dat.out} ${dat.in}`;
       return new Promise((resolve, reject) => {
