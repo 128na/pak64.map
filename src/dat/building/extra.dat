@@ -8,7 +8,7 @@ Chance=100
 Dims=1,1,1
 Needs_ground=1
 FrontImage[0][0][0][0][0]=../marker.1.1
-BackImage[0][0][0][0][0]=../misc/pavement.0.0
+BackImage[0][0][0][0][0]=special_1xL.0.7
 -----------------------------------------------------
 Obj=building
 Name=headquarter
@@ -20,4 +20,4 @@ Passengers=20
 Dims=1,1,1
 Needs_ground=1
 FrontImage[0][0][0][0][0]=../marker.1.0
-BackImage[0][0][0][0][0]=../misc/pavement.0.0
+BackImage[0][0][0][0][0]=special_1xL.0.7

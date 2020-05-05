@@ -1,7 +1,7 @@
 # □
 Obj=building
-Name=res_1x1-0-1
-type=res
+Name=com_1x1-0-1
+type=com
 chance=100
 Level=1
 clusters=0,1,10
@@ -9,8 +9,8 @@ BackImage[0][0][0][0][0]=../misc/pavement.0.0
 ---------
 # ■
 Obj=building
-Name=res_1x1-1-1
-type=res
+Name=com_1x1-1-1
+type=com
 chance=100
 Level=2
 clusters=1,2,10
@@ -18,8 +18,8 @@ BackImage[0][0][0][0][0]=1xL.0.7
 ---------
 # ■■
 Obj=building
-Name=res_2x1-2-1
-type=res
+Name=com_2x1-2-1
+type=com
 chance=100
 Level=2
 dims=2,1,2
@@ -32,8 +32,8 @@ BackImage[1][1][0][0][0]=1xL.0.10
 # ■■
 # ■□
 Obj=building
-Name=res_2x2_3-1
-type=res
+Name=com_2x2_3-1
+type=com
 chance=50
 Level=2
 dims=2,2,4
@@ -58,8 +58,8 @@ BackImage[3][1][1][0][0]=1xL.0.11
 # ■■
 # ■■
 Obj=building
-Name=res_2x2_4-1
-type=res
+Name=com_2x2_4-1
+type=com
 chance=100
 Level=2
 dims=2,2,1
@@ -71,8 +71,8 @@ BackImage[0][1][1][0][0]=3x3.2.2
 ---------
 # ■■■
 Obj=building
-Name=res_3x1_3-1
-type=res
+Name=com_3x1_3-1
+type=com
 chance=100
 Level=2
 dims=3,1,2
@@ -87,8 +87,8 @@ BackImage[1][2][0][0][0]=1xL.0.10
 # ■■■
 # ■□□
 Obj=building
-Name=res_3x2_4-1
-type=res
+Name=com_3x2_4-1
+type=com
 chance=33
 Level=2
 dims=3,2,8
@@ -145,8 +145,8 @@ BackImage[7][2][1][0][0]=1xL.0.11
 # ■■□
 # □■■
 Obj=building
-Name=res_3x2_4-2
-type=res
+Name=com_3x2_4-2
+type=com
 chance=33
 Level=2
 dims=3,2,8
@@ -203,8 +203,8 @@ BackImage[7][2][1][0][0]=../misc/pavement.0.0
 # ■■■
 # □■□
 Obj=building
-Name=res_3x2_4-3
-type=res
+Name=com_3x2_4-3
+type=com
 chance=33
 Level=2
 dims=3,2,4
@@ -237,8 +237,8 @@ BackImage[3][2][1][0][0]=../misc/pavement.0.0
 # ■■■
 # ■■□
 Obj=building
-Name=res_3x2_5-1
-type=res
+Name=com_3x2_5-1
+type=com
 chance=33
 Level=2
 dims=3,2,8
@@ -295,8 +295,8 @@ BackImage[7][2][1][0][0]=3x3.2.2
 # ■■■
 # ■□■
 Obj=building
-Name=res_3x2_5-2
-type=res
+Name=com_3x2_5-2
+type=com
 chance=33
 Level=2
 dims=3,2,4
@@ -329,8 +329,8 @@ BackImage[3][2][1][0][0]=1xL.0.11
 # ■■■
 # ■■■
 Obj=building
-Name=res_3x2_6-1
-type=res
+Name=com_3x2_6-1
+type=com
 chance=100
 Level=2
 dims=3,2,2
@@ -351,10 +351,10 @@ BackImage[1][2][1][0][0]=3x3.2.2
 # ■■■
 # ■□□
 # ■□□
-# Name=res_3x3_1
+# Name=com_3x3_1
 Obj=building
-Name=res_3x3_5-1
-type=res
+Name=com_3x3_5-1
+type=com
 chance=25
 Level=2
 dims=3,3,4
@@ -399,19 +399,19 @@ BackImage[3][2][2][0][0]=1xL.0.11
 # □■■
 # ■■□
 # ■□□
-# Name=res_3x3_5-2
+# Name=com_3x3_5-2
 ---------
 # □□■
 # ■■■
 # ■□□
-# Name=res_3x3_5-3
+# Name=com_3x3_5-3
 ---------
 # □■□
 # ■■■
 # □■□
 Obj=building
-Name=res_3x3_5-5
-type=res
+Name=com_3x3_5-5
+type=com
 chance=25
 Level=2
 dims=3,3,1
@@ -429,79 +429,79 @@ BackImage[0][2][2][0][0]=../misc/pavement.0.0
 # ■■■
 # ■■□
 # ■□□
-# Name=res_3x3_6-1
+# Name=com_3x3_6-1
 ---------
 # ■■■
 # ■■□
 # □■□
-# Name=res_3x3_6-2
+# Name=com_3x3_6-2
 ---------
 # ■■□
 # ■■■
 # □■□
-# Name=res_3x3_6-3
+# Name=com_3x3_6-3
 ---------
 # ■■□
 # ■■□
 # □■■
-# Name=res_3x3_6-4
+# Name=com_3x3_6-4
 ---------
 # ■■□
 # □■■
 # ■■□
-# Name=res_3x3_6-5
+# Name=com_3x3_6-5
 ---------
 # ■■■
 # ■□■
 # ■□□
-# Name=res_3x3_6-6
+# Name=com_3x3_6-6
 ---------
 # ■■■
 # ■■■
 # ■□□
-# Name=res_3x3_7-1
+# Name=com_3x3_7-1
 ---------
 # ■■■
 # ■■■
 # □■□
-# Name=res_3x3_7-2
+# Name=com_3x3_7-2
 ---------
 # ■■□
 # ■■■
 # □■■
-# Name=res_3x3_7-3
+# Name=com_3x3_7-3
 ---------
 # ■■□
 # ■■■
 # ■□■
-# Name=res_3x3_7-4
+# Name=com_3x3_7-4
 ---------
 # ■□■
 # ■■■
 # ■□■
-# Name=res_3x3_7-5
+# Name=com_3x3_7-5
 ---------
 # ■■■
 # ■□■
 # ■□■
-# Name=res_3x3_7-6
+# Name=com_3x3_7-6
 ---------
 # ■■■
 # ■■■
 # ■■□
-# Name=res_3x3_8-1
+# Name=com_3x3_8-1
 ---------
 # ■■■
 # ■■■
 # ■□■
-# Name=res_3x3_8-2
+# Name=com_3x3_8-2
 ---------
 # ■■■
 # ■□■
 # ■■■
 Obj=building
-Name=res_3x3_8-3
-type=res
+Name=com_3x3_8-3
+type=com
 chance=25
 Level=2
 dims=3,3,1
@@ -520,8 +520,8 @@ BackImage[0][2][2][0][0]=1xL.0.2
 # ■■■
 # ■■■
 Obj=building
-Name=res_3x3_9-1
-type=res
+Name=com_3x3_9-1
+type=com
 chance=100
 Level=2
 dims=3,3,1
