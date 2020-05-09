@@ -1,5 +1,5 @@
 Obj=cursor
-name=GeneralTools
+Name=GeneralTools
 Image[0]=cursors.0.0
 Image[1]=cursors.0.1
 Image[2]=cursors.0.2
@@ -15,14 +15,14 @@ Image[11]=cursors.1.1
 Image[12]=cursors.1.2
 --
 Obj=cursor
-name=Builder
+Name=Builder
 Image[0]=cursors.3.0
 --
 Obj=cursor
-name=Marked
+Name=Marked
 Image[0]=cursors.3.1
 --
 Obj=cursor
-name=Mouse
+Name=Mouse
 Image[0]=> cursors.3.2
 --

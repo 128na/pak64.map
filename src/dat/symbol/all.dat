@@ -1,107 +1,107 @@
 --
 Obj=symbol
-name=Logo
+Name=Logo
 #Image[0]=> ls-symbols.1.7
 # stormoog's logo
 Image[0]=> ls-symbols.1.6
 --
 Obj=symbol
-name=Flags
+Name=Flags
 Image[0]=> ls-symbols.0.2
 --
 Obj=symbol
-name=Message
+Name=Message
 Image[0]=> ls-symbols.0.0
 --
 Obj=symbol
-name=NewWorld
+Name=NewWorld
 Image[0]=> ls-symbols.0.3
 --
 Obj=symbol
-name=NewYear
+Name=NewYear
 Image[0]=> ls-symbols.0.4
 --
 Obj=symbol
-name=ColorOptions
+Name=ColorOptions
 Image[0]=> ls-symbols.0.6
 --
 Obj=symbol
-name=BusStop
+Name=BusStop
 Image[0]=> ls-symbols.1.2
 --
 Obj=symbol
-name=TrainStop
+Name=TrainStop
 Image[0]=> ls-symbols.1.1
 --
 Obj=symbol
-name=CarStop
+Name=CarStop
 Image[0]=> ls-symbols.1.0
 --
 Obj=symbol
-name=ShipStop
+Name=ShipStop
 Image[0]=> ls-symbols.1.3
 --
 Obj=symbol
-name=AirStop
+Name=AirStop
 Image[0]=> ls-symbols.1.4
 --
 Obj=symbol
-name=MonorailStop
+Name=MonorailStop
 Image[0]=> ls-symbols.1.5
 --
 Obj=symbol
-name=TramStop
+Name=TramStop
 Image[0]=> ls-symbols.2.5
 --
 Obj=symbol
-name=Passagiere
+Name=Passagiere
 Image[0]=> ls-symbols.2.0
 --
 Obj=symbol
-name=Post
+Name=Post
 Image[0]=> ls-symbols.2.1
 --
 Obj=symbol
-name=Waren
+Name=Waren
 Image[0]=> ls-symbols.2.2
 --
 Obj=symbol
-name=MessageOptions
+Name=MessageOptions
 Image[0]=> ls-symbols.2.3
 --
 Obj=symbol
-name=Electricity
+Name=Electricity
 Image[0]=> ls-symbols.2.6
 --
 Obj=symbol
-name=InTown
+Name=InTown
 Image[0]=> ls-symbols.2.7
 --
 Obj=symbol
-name=Seasons
+Name=Seasons
 Image[3]=> ls-symbols.3.0
 Image[0]=> ls-symbols.3.1
 Image[1]=> ls-symbols.3.2
 Image[2]=> ls-symbols.3.3
 --
 Obj=symbol
-name=networksym
+Name=networksym
 Image[0]=> ls-symbols.3.4
 --
 Obj=symbol
-name=timelinesym
+Name=timelinesym
 Image[0]=> ls-symbols.3.5
 --
 Obj=symbol
-name=fastforwardsym
+Name=fastforwardsym
 Image[0]=> ls-symbols.3.6
 --
 Obj=symbol
-name=pausesym
+Name=pausesym
 Image[0]=> ls-symbols.3.7
 --
 Obj=symbol
-name=station_type
+Name=station_type
 # used in line display only currently
 # the number is the stationtype (emtpy images must be defined as "-"
 # loadingbay=0, railstation = 1, dock = 2, busstop = 3, airstop = 4, monorailstop = 5, tramstop = 6, maglevstop=7, narrowgaugestop=8
