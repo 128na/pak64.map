@@ -462,49 +462,43 @@ toolbar[8][8]=buildings(35,16)
 # specialtools
 toolbar[9][0]=buildings(35,0)
 toolbar[9][1]=ways(2,255)
-toolbar[9][2]=simple_tool[5]
-toolbar[9][3]=general_tool[9]
-toolbar[9][4]=general_tool[11]
-toolbar[9][5]=ways(128,0)
-toolbar[9][6]=bridges(128)
-toolbar[9][7]=tunnels(128)
-toolbar[9][8]=general_tool[17],24,,128
-toolbar[9][9]=general_tool[8]
-toolbar[9][10]=general_tool[6]
-toolbar[9][11]=general_tool[31]
-toolbar[9][12]=general_tool[32]
-toolbar[9][13]=toolbar[11],29,,EDITTOOLS,edittools.txt
-toolbar[9][14]=general_tool[14],,l,128
+toolbar[9][2]=general_tool[9]
+toolbar[9][3]=general_tool[11]
+toolbar[9][4]=ways(128,0)
+toolbar[9][5]=bridges(128)
+toolbar[9][6]=tunnels(128)
+toolbar[9][7]=general_tool[17],24,,128
+toolbar[9][8]=general_tool[8]
+toolbar[9][9]=general_tool[6]
+toolbar[9][10]=general_tool[31]
+toolbar[9][11]=general_tool[32]
+toolbar[9][12]=toolbar[11],29,,EDITTOOLS,edittools.txt
+toolbar[9][13]=general_tool[14],,l,128
 
 # editor tools
 toolbar[10][0]=general_tool[10],25,,+100
 toolbar[10][1]=general_tool[10],26,,-100
 toolbar[10][2]=general_tool[9]
 toolbar[10][3]=general_tool[36],27,,
-toolbar[10][4]=simple_tool[3]
-toolbar[10][5]=dialog_tool[20]
-toolbar[10][6]=general_tool[26]
-toolbar[10][7]=dialog_tool[21]
-toolbar[10][8]=dialog_tool[22]
-toolbar[10][9]=dialog_tool[23]
-toolbar[10][10]=general_tool[30]
-toolbar[10][11]=simple_tool[6]
-toolbar[10][12]=dialog_tool[24]
-toolbar[10][13]=general_tool[28]
+toolbar[10][4]=dialog_tool[20]
+toolbar[10][5]=general_tool[26]
+toolbar[10][6]=dialog_tool[21]
+toolbar[10][7]=dialog_tool[22]
+toolbar[10][8]=dialog_tool[23]
+toolbar[10][9]=general_tool[30]
+toolbar[10][10]=dialog_tool[24]
 # fill and draw bassins (images would be 30 and 31)
-toolbar[10][14]=general_tool[38],30,,+1
-toolbar[10][15]=general_tool[38],31,,-1
+toolbar[10][11]=general_tool[38],30,,+1
+toolbar[10][12]=general_tool[38],31,,-1
 # new terraforming
-toolbar[10][16]=general_tool[39],32,,0
-toolbar[10][17]=general_tool[39],33,,1
-toolbar[10][18]=general_tool[39],34,,2
-toolbar[10][19]=general_tool[39],35,,3
-toolbar[10][20]=general_tool[39],36,,4
-toolbar[10][21]=general_tool[39],37,,5
-toolbar[10][22]=general_tool[39],38,,6
-toolbar[10][23]=general_tool[39],39,,7
-# second pause
-toolbar[10][24]=simple_tool[0],,^p,
+toolbar[10][13]=general_tool[39],32,,0
+toolbar[10][14]=general_tool[39],33,,1
+toolbar[10][15]=general_tool[39],34,,2
+toolbar[10][16]=general_tool[39],35,,3
+toolbar[10][17]=general_tool[39],36,,4
+toolbar[10][18]=general_tool[39],37,,5
+toolbar[10][19]=general_tool[39],38,,6
+toolbar[10][20]=general_tool[39],39,,7
 
 # list tools
 toolbar[11][0]=dialog_tool[14]
