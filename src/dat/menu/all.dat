@@ -102,14 +102,14 @@ Image[18]=> menu.4.8
 Image[19]=> menu.4.9
 Image[20]=> menu.4.10
 Image[21]=> menu.4.11
-Image[22]=-
+Image[22]=> menu.4.13
 Image[23]=-
 Image[24]=> menu.4.14
 # increase decrease population
 Image[25]=> menu.4.15
 Image[26]=> menu.4.16
 # builds city road
-Image[27]=> menu.4.17
+Image[27]=> ../way/city_road.3.4
 # wayobjectremover tool icons
 Image[28]=> menu.4.12
 # world editor
