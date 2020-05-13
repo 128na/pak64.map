@@ -102,8 +102,10 @@ Image[18]=> menu.4.8
 Image[19]=> menu.4.9
 Image[20]=> menu.4.10
 Image[21]=> menu.4.11
+# maglev
 Image[22]=> menu.4.13
-Image[23]=-
+# narrow
+Image[23]=> menu.2.8
 Image[24]=> menu.4.14
 # increase decrease population
 Image[25]=> menu.4.15
@@ -133,4 +135,6 @@ Image[42]=> menu.5.2
 Image[43]=> menu.5.3
 # maglev
 Image[44]=> menu.3.10
+# narrow
+Image[45]=> menu.2.7
 --
