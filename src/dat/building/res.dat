@@ -410,7 +410,7 @@ BackImage[3][2][2][0][0]=1xL.0.11
 # ■■■
 # □■□
 Obj=building
-Name=res_3x3_5-5
+Name=res_3x3_5-4
 type=res
 chance=25
 Level=2

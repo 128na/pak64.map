@@ -1,0 +1,38 @@
+Obj=way
+Name=basic_power
+Cost=8000
+Maintenance=500
+Waytype=power
+Cursor=power.2.1
+Icon=> power.0.3
+Image[-]=power.0.2
+Image[NSEW]=power.0.2
+Image[S]=power.3.0
+Image[N]=power.3.1
+Image[E]=power.3.2
+Image[W]=power.3.3
+Image[NS]=power.0.0
+Image[EW]=power.0.1
+Image[NSW]=power.2.0
+Image[NSE]=power.2.1
+Image[SEW]=power.2.2
+Image[NEW]=power.2.3
+# 他wayを跨ぐとき
+Diagonal[NE]=power.0.0
+Diagonal[SE]=power.0.1
+# 直線の中間
+Diagonal[NW]=power.0.0
+Diagonal[SW]=power.0.1
+Image[NW]=power.1.0
+Image[SE]=power.1.1
+Image[SW]=power.1.2
+Image[NE]=power.1.3
+ImageUp[12]=power.4.0
+ImageUp[9]=power.4.1
+ImageUp[3]=power.4.2
+ImageUp[6]=power.4.3
+ImageUp2[12]=power.5.0
+ImageUp2[9]=power.5.1
+ImageUp2[3]=power.5.2
+ImageUp2[6]=power.5.3
+-------

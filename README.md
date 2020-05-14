@@ -12,26 +12,18 @@ https://github.com/128na/pak64.map/releases
 
 ## 実装状況
 
-|名前|進捗|dat|pak|
-|---|---|---|--|
-|メニュー|64流用|[dat](./src/dat/menu/all.dat)|menu.all.pak|
-|シンボルアイコン|64流用|[dat](./src/dat/symbol/all.dat)|symbol.all.pak|
-|カーソル|64流用|[dat](./src/dat/cursor/all.dat)|cursor.all.pak|
-|地形（マップ外）|✔️|[dat](./src/dat/ground/Outside.dat)|ground.Outside.pak|
-|地形|64,nippon流用|[dat](./src/dat/ground/all.dat)|ground.all.pak|
-|misc（地面）|✔️|[dat](./src/dat/misc/all.dat)|misc.all.pak|
-|misc（建設中）|64流用|[dat](./src/dat/misc/all.dat)|misc.all.pak|
-|建物（住宅）|~3x3まで一部|[dat](./src/dat/building/res.dat)|building.res.pak|
-|建物（商業）|1x1のみ|[dat](./src/dat/building/res.dat)|building.res.pak|
-|建物（工業）|1x1のみ|[dat](./src/dat/building/res.dat)|building.res.pak|
-|建物（本社）|1x1のみ|[dat](./src/dat/building/extra.dat)|building.extra.pak|
-|建物（役所）|1x1のみ|[dat](./src/dat/building/extra.dat)|building.extra.pak|
-|建物（名所）|公園、駐車場、市場、商店、病院、薬局、レストラン、カフェ、ホテル、名所|[dat](./src/dat/building/cur.dat)|building.cur.pak|
-|貨物|✔️|[dat](./src/dat/good/all.dat)|good.all.pak|
-|信号|鉄道信号（通常、プレ、分岐）|[dat](./src/dat/roadsign/all.dat)|roadsign.all.pak|
-|駅|鉄道駅（両サイド、中央、単線）、バス停|[dat](./src/dat/station/all.dat)|station.all.pak|
-|道路|アイコン未実装|[dat](./src/dat/way/road.all.dat)|way.road.all.pak|
-|鉄道|アイコン未実装|[dat](./src/dat/way/rail.all.dat)|way.rail.all.pak|
+|完了|項目|進捗|
+|---|---|---|
+|　|[building](./src/dat/building)|市内：3x3まで、特殊：1x1のみ|
+|　|[cursor](./src/dat/cursor)|64流用|
+|✔️|[good](./src/dat/good)||
+|　|[ground](./src/dat/ground)|64,nippon流用|
+|✔️|[menu](./src/dat/menu)||
+|✔️|[misc](./src/dat/misc)||
+|　|[roadsign](./src/dat/roadsign)|暫定（鉄道信号のみ）|
+|　|[stop](./src/dat/stop)|暫定（鉄道、バス停のみ）|
+|　|[symbol](./src/dat/symbol)|64流用|
+|　|[way](./src/dat/way)|暫定|
 
 # 開発用
 ## Pak化
