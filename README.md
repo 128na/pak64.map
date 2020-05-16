@@ -1,5 +1,6 @@
 # Pak64.map
-<img src="./docs/thumb.png">
+
+![thumbnail](./docs/thumb.png)
 
 G〇ogleMapみたいなパックセットの試作品です。
 pak64のアドオンの導入が可能です。
@@ -9,6 +10,15 @@ pak64のアドオンの導入が可能です。
 
 リリースページから `pak64.map.zip` をダウンロードし、他のパックセット同様にsimutransフォルダに設置してください。 
 https://github.com/128na/pak64.map/releases
+
+## 左側通行使用時の注意
+信号機の配置はデフォルトで**右側通行**の配置になっています。
+左側通行にする場合は`@` キーを押して高度な設定を呼出し、 `drive_left`と`signals_on_left`を有効にして下さい。
+
+※signals_on_leftを有効にした状態でsignals_on_left未対応の信号アドオンを導入すると位置がずれます
+
+![drive_left](./docs/drive_left.png)
+
 
 ## 実装状況
 

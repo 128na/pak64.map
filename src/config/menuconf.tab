@@ -412,10 +412,10 @@ toolbar[4][9]=buildings(35,6)
 
 # tramtools (waytype 7)
 toolbar[5][0]=ways(7,0)
-toolbar[5][1]=ways(2,1)
+toolbar[5][1]=ways(2,7)
 toolbar[5][2]=bridges(2)
 toolbar[5][3]=tunnels(2)
-toolbar[5][4]=general_tool[17],21,,7
+toolbar[5][4]=general_tool[17],21,,2
 toolbar[5][5]=wayobjs(7)
 toolbar[5][6]=general_tool[33],28,,7
 toolbar[5][7]=signs(7)
