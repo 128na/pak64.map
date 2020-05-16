@@ -12,10 +12,10 @@ Waytype=air
 NoConstruction=1
 Needs_ground=1
 Allow_underground=2
-Icon=> stop.0.0
-Cursor=stop.1.0,24,32
-FrontImage[0][0][0][0][0]=stop.1.0,24,32
-FrontImage[1][0][0][0][0]=stop.1.0,24,32
+Icon=> stop.0.3
+Cursor=stop.1.3,24,32
+FrontImage[0][0][0][0][0]=stop.1.3,24,32
+FrontImage[1][0][0][0][0]=stop.1.3,24,32
 ---
 Obj=building
 Name=air_depot

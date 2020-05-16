@@ -20,8 +20,8 @@ https://github.com/128na/pak64.map/releases
 |　|[ground](./src/dat/ground)|一部64,nippon流用|
 |✔️|[menu](./src/dat/menu)||
 |✔️|[misc](./src/dat/misc)||
-|　|[roadsign](./src/dat/roadsign)|暫定（鉄道信号のみ）|
-|　|[stop](./src/dat/stop)|暫定（鉄道、バス停のみ）|
+|　|[roadsign](./src/dat/roadsign)|道路信号以外|
+|　|[stop](./src/dat/stop)|港以外|
 |　|[symbol](./src/dat/symbol)|64流用|
 |✔|[way](./src/dat/way)||
 
