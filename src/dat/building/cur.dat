@@ -4,7 +4,7 @@ Type=cur
 Passengers=50
 Chance=100
 Dims=1,1
-FrontImage[0][0][0][0][0]=../marker.0.1
+FrontImage[0][0][0][0][0]=../marker.0.2
 ----
 Obj=building
 Name=parking_1x1
@@ -12,7 +12,7 @@ Type=cur
 Passengers=100
 Chance=100
 Dims=1,1
-FrontImage[0][0][0][0][0]=../marker.0.2
+FrontImage[0][0][0][0][0]=../marker.0.3
 BackImage[0][0][0][0][0]=../misc/pavement.0.0
 ----
 Obj=building
@@ -21,7 +21,7 @@ Type=cur
 Passengers=100
 Chance=100
 Dims=1,1
-FrontImage[0][0][0][0][0]=../marker.0.3
+FrontImage[0][0][0][0][0]=../marker.0.4
 BackImage[0][0][0][0][0]=special_1xL.0.7
 ----
 Obj=building
@@ -30,7 +30,7 @@ Type=cur
 Passengers=100
 Chance=100
 Dims=1,1
-FrontImage[0][0][0][0][0]=../marker.1.3
+FrontImage[0][0][0][0][0]=../marker.1.4
 BackImage[0][0][0][0][0]=special_1xL.0.7
 ----
 Obj=building
@@ -39,7 +39,7 @@ Type=cur
 Passengers=100
 Chance=100
 Dims=1,1
-FrontImage[0][0][0][0][0]=../marker.0.4
+FrontImage[0][0][0][0][0]=../marker.0.5
 BackImage[0][0][0][0][0]=special_1xL.0.7
 ----
 Obj=building
@@ -48,7 +48,7 @@ Type=cur
 Passengers=100
 Chance=100
 Dims=1,1
-FrontImage[0][0][0][0][0]=../marker.1.4
+FrontImage[0][0][0][0][0]=../marker.1.5
 BackImage[0][0][0][0][0]=special_1xL.0.7
 ----
 Obj=building
@@ -57,7 +57,7 @@ Type=cur
 Passengers=100
 Chance=100
 Dims=1,1
-FrontImage[0][0][0][0][0]=../marker.0.5
+FrontImage[0][0][0][0][0]=../marker.0.6
 BackImage[0][0][0][0][0]=special_1xL.0.7
 ----
 Obj=building
@@ -66,7 +66,7 @@ Type=cur
 Passengers=100
 Chance=100
 Dims=1,1
-FrontImage[0][0][0][0][0]=../marker.1.5
+FrontImage[0][0][0][0][0]=../marker.1.6
 BackImage[0][0][0][0][0]=special_1xL.0.7
 ----
 Obj=building
@@ -75,7 +75,7 @@ Type=cur
 Passengers=100
 Chance=100
 Dims=1,1
-FrontImage[0][0][0][0][0]=../marker.0.6
+FrontImage[0][0][0][0][0]=../marker.0.7
 BackImage[0][0][0][0][0]=special_1xL.0.7
 ----
 Obj=building
@@ -84,5 +84,5 @@ Type=cur
 Passengers=100
 Chance=100
 Dims=1,1
-FrontImage[0][0][0][0][0]=../marker.1.6
+FrontImage[0][0][0][0][0]=../marker.0.8
 BackImage[0][0][0][0][0]=special_1xL.0.7

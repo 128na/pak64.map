@@ -21,5 +21,5 @@
 |✔|road|幹線道路|![#fff2bd](https://via.placeholder.com/15/fff2bd?text=+) #fff2bd<br>![#f6cf65](https://via.placeholder.com/15/f6cf65?text=+) #f6cf65||
 |✔|road|高速道路|![#f6cf65](https://via.placeholder.com/15/f6cf65?text=+) #f6cf65<br>![#ffc66b](https://via.placeholder.com/15/ffc66b?text=+) #ffc66b||
 |✔|water|運河|![#86b7dc](https://via.placeholder.com/15/86b7dc?text=+) #86b7dc<br>![#cccccc](https://via.placeholder.com/15/cccccc?text=+) #cccccc||
-|✔|air|滑走路|![#f3f4f5](https://via.placeholder.com/15/f3f4f5?text=+) #f3f4f5<br>![#cccccc](https://via.placeholder.com/15/cccccc?text=+) #cccccc||
+|✔|air|滑走路|![#f3f4f5](https://via.placeholder.com/15/f3f4f5?text=+) #f3f4f5<br>![#cccccc](https://via.placeholder.com/15/cccccc?text=+) #cccccc|軌道末端を鋭角に|
 |✔|air|誘導路|![#ebebeb](https://via.placeholder.com/15/ebebeb?text=+) #ebebeb<br>![#cccccc](https://via.placeholder.com/15/cccccc?text=+) #cccccc||
