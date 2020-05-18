@@ -24,7 +24,9 @@ https://github.com/128na/pak64.map/releases
 
 |完了|項目|進捗|
 |---|---|---|
+|　|[bridge](./src/dat/bridge)||
 |　|[building](./src/dat/building)|市内：3x3まで、特殊：1x1のみ|
+|✔️|[crossing](./src/dat/crossing)||
 |　|[cursor](./src/dat/cursor)|一部64流用|
 |✔️|[good](./src/dat/good)||
 |　|[ground](./src/dat/ground)|一部64,nippon流用|
@@ -33,7 +35,8 @@ https://github.com/128na/pak64.map/releases
 |　|[roadsign](./src/dat/roadsign)|道路信号以外|
 |　|[stop](./src/dat/stop)|港以外|
 |　|[symbol](./src/dat/symbol)|64流用|
-|✔|[way](./src/dat/way)||
+|✔|[tunnel](./src/dat/tunnel)||
+|✔|[way](./src/dat/way)|地上のみ|
 
 # 開発用
 ## Pak化
