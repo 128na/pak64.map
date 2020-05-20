@@ -4,6 +4,7 @@ Copyright=128Na
 Cost=8000
 Maintenance=500
 Waytype=power
+System_type=0
 Cursor=power.2.1
 Icon=> power.0.3
 Image[-]=power.0.2
@@ -36,4 +37,45 @@ ImageUp2[12]=power.5.0
 ImageUp2[9]=power.5.1
 ImageUp2[3]=power.5.2
 ImageUp2[6]=power.5.3
+-------
+# 作成可能だが想定されていないのかクラッシュしやすいので保留
+# Obj=way
+# Name=basic_power_elevated
+# Copyright=128Na
+# Cost=8000
+# Maintenance=500
+# Waytype=power
+# System_type=1
+# Cursor=power_e.2.1
+# Icon=> power_e.0.3
+# Image[-]=power_e.0.2
+# Image[NSEW]=power_e.0.2
+# Image[S]=power_e.3.0
+# Image[N]=power_e.3.1
+# Image[E]=power_e.3.2
+# Image[W]=power_e.3.3
+# Image[NS]=power_e.0.0
+# Image[EW]=power_e.0.1
+# Image[NSW]=power_e.2.0
+# Image[NSE]=power_e.2.1
+# Image[SEW]=power_e.2.2
+# Image[NEW]=power_e.2.3
+# # 他wayを跨ぐとき
+# Diagonal[NE]=power_e.0.0
+# Diagonal[SE]=power_e.0.1
+# # 直線の中間
+# Diagonal[NW]=power_e.0.0
+# Diagonal[SW]=power_e.0.1
+# Image[NW]=power_e.1.0
+# Image[SE]=power_e.1.1
+# Image[SW]=power_e.1.2
+# Image[NE]=power_e.1.3
+# ImageUp[12]=power_e.4.0
+# ImageUp[9]=power_e.4.1
+# ImageUp[3]=power_e.4.2
+# ImageUp[6]=power_e.4.3
+# ImageUp2[12]=power_e.5.0
+# ImageUp2[9]=power_e.5.1
+# ImageUp2[3]=power_e.5.2
+# ImageUp2[6]=power_e.5.3
 -------
