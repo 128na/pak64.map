@@ -2,5 +2,5 @@
 # マップ外
 Obj=ground
 Name=Outside
-Copyright=128Na
+Copyright=pak64.map v0.0.3
 Image[0][0]=outside.0.0
