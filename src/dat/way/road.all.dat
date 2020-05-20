@@ -1,6 +1,7 @@
 # 一般道
 Obj=way
 Name=city_road
+Copyright=128Na
 Cost=7500
 Maintenance=300
 Topspeed=50
@@ -40,6 +41,7 @@ Diagonal[SE][0]=city_road.4.3
 # 主要般道
 Obj=way
 Name=main_road
+Copyright=128Na
 Cost=10000
 Maintenance=800
 Topspeed=80
@@ -79,6 +81,7 @@ Diagonal[SE][0]=main_road.4.3
 # 高速道路
 Obj=way
 Name=highway_road
+Copyright=128Na
 Cost=150000
 Maintenance=2200
 Topspeed=120
@@ -118,6 +121,7 @@ Diagonal[SE][0]=highway_road.4.3
 # 運河
 Obj=way
 Name=canal
+Copyright=128Na
 Cost=7500
 Maintenance=300
 Topspeed=50
@@ -157,6 +161,7 @@ Diagonal[SE][0]=canal.4.3
 # 滑走路
 Obj=way
 Name=runway
+Copyright=128Na
 Cost=7500
 Maintenance=300
 Topspeed=1000
@@ -196,6 +201,7 @@ Diagonal[SE][0]=runway.4.3
 # 誘導路
 Obj=way
 Name=taxiway
+Copyright=128Na
 Cost=7500
 Maintenance=300
 Topspeed=100
@@ -235,6 +241,7 @@ Diagonal[SE][0]=taxiway.4.3
 # placeholder
 Obj=way
 Name=placeholder
+Copyright=128Na
 Cost=7500
 Maintenance=300
 Topspeed=1

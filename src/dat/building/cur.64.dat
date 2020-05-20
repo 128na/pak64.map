@@ -1,5 +1,6 @@
 Obj=building
 Name=park_1x1
+Copyright=128Na
 Type=cur
 Passengers=50
 Chance=100
@@ -8,6 +9,7 @@ FrontImage[0][0][0][0][0]=../marker.0.2
 ----
 Obj=building
 Name=parking_1x1
+Copyright=128Na
 Type=cur
 Passengers=100
 Chance=100
@@ -17,6 +19,7 @@ BackImage[0][0][0][0][0]=../misc/pavement.0.0
 ----
 Obj=building
 Name=shop_1x1
+Copyright=128Na
 Type=cur
 Passengers=100
 Chance=100
@@ -26,6 +29,7 @@ BackImage[0][0][0][0][0]=special_1xL.0.7
 ----
 Obj=building
 Name=market_1x1
+Copyright=128Na
 Type=cur
 Passengers=100
 Chance=100
@@ -35,6 +39,7 @@ BackImage[0][0][0][0][0]=special_1xL.0.7
 ----
 Obj=building
 Name=restaurant_1x1
+Copyright=128Na
 Type=cur
 Passengers=100
 Chance=100
@@ -44,6 +49,7 @@ BackImage[0][0][0][0][0]=special_1xL.0.7
 ----
 Obj=building
 Name=cafe_1x1
+Copyright=128Na
 Type=cur
 Passengers=100
 Chance=100
@@ -53,6 +59,7 @@ BackImage[0][0][0][0][0]=special_1xL.0.7
 ----
 Obj=building
 Name=hospital_1x1
+Copyright=128Na
 Type=cur
 Passengers=100
 Chance=100
@@ -62,6 +69,7 @@ BackImage[0][0][0][0][0]=special_1xL.0.7
 ----
 Obj=building
 Name=pharmacy_1x1
+Copyright=128Na
 Type=cur
 Passengers=100
 Chance=100
@@ -71,6 +79,7 @@ BackImage[0][0][0][0][0]=special_1xL.0.7
 ----
 Obj=building
 Name=hotel_1x1
+Copyright=128Na
 Type=cur
 Passengers=100
 Chance=100
@@ -80,6 +89,7 @@ BackImage[0][0][0][0][0]=special_1xL.0.7
 ----
 Obj=building
 Name=interest_1x1
+Copyright=128Na
 Type=cur
 Passengers=100
 Chance=100

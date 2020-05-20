@@ -1,5 +1,6 @@
 Obj=way
 Name=basic_power
+Copyright=128Na
 Cost=8000
 Maintenance=500
 Waytype=power

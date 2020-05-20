@@ -1,5 +1,6 @@
 Obj=way
 Name=basic_track_elevated
+Copyright=128Na
 Cost=8000
 Maintenance=500
 Topspeed=120
@@ -38,6 +39,7 @@ ImageUp2[6][0]=rail_e.5.3
 -------
 Obj=way
 Name=basic_JR_track_elevated
+Copyright=128Na
 Cost=8000
 Maintenance=500
 Topspeed=130
@@ -76,6 +78,7 @@ ImageUp2[6][0]=jr_rail_e.5.3
 -------
 Obj=way
 Name=basic_highspeed_track_elevated
+Copyright=128Na
 Cost=8000
 Maintenance=500
 Topspeed=400
@@ -114,6 +117,7 @@ ImageUp2[6][0]=jr_hs_e.5.3
 -------
 Obj=way
 Name=basic_monorail_track_elevated
+Copyright=128Na
 Cost=8000
 Maintenance=500
 Topspeed=120
@@ -152,6 +156,7 @@ ImageUp2[6][0]=monorail_e.5.3
 -------
 Obj=way
 Name=basic_maglev_track_elevated
+Copyright=128Na
 Cost=8000
 Maintenance=500
 Topspeed=900
@@ -190,6 +195,7 @@ ImageUp2[6][0]=jr_hs2_e.5.3
 -------
 Obj=way
 Name=basic_narrowgauge_track_elevated
+Copyright=128Na
 Cost=8000
 Maintenance=500
 Topspeed=80

@@ -1,5 +1,6 @@
 Obj=tunnel
 Name=city_road_tunnel
+Copyright=128Na
 Waytype=road
 Way=city_road
 Topspeed=50
@@ -18,6 +19,7 @@ FrontImage[E]=tunnel.0.3
 ----
 Obj=tunnel
 Name=main_road_tunnel
+Copyright=128Na
 Waytype=road
 Way=main_road
 Topspeed=80
@@ -36,6 +38,7 @@ FrontImage[E]=tunnel.0.3
 ----
 Obj=tunnel
 Name=highway_road_tunnel
+Copyright=128Na
 Waytype=road
 Way=highway_road
 Topspeed=120
@@ -54,6 +57,7 @@ FrontImage[E]=tunnel.0.3
 ----
 Obj=tunnel
 Name=canal_tunnel
+Copyright=128Na
 Waytype=water
 Way=canal
 Topspeed=50
@@ -72,6 +76,7 @@ FrontImage[E]=tunnel.0.3
 ----
 Obj=tunnel
 Name=track_tunnel
+Copyright=128Na
 Waytype=track
 Way=basic_track
 Topspeed=120
@@ -90,6 +95,7 @@ FrontImage[E]=tunnel.0.3
 ----
 Obj=tunnel
 Name=JR_track_tunnel
+Copyright=128Na
 Waytype=track
 Way=basic_JR_track
 Topspeed=130
@@ -108,6 +114,7 @@ FrontImage[E]=tunnel.0.3
 ----
 Obj=tunnel
 Name=highspeed_track_tunnel
+Copyright=128Na
 Waytype=track
 Way=basic_highspeed_track
 Topspeed=400
@@ -126,6 +133,7 @@ FrontImage[E]=tunnel.0.3
 ----
 Obj=tunnel
 Name=maglev_tunnel
+Copyright=128Na
 Waytype=maglev_track
 Way=basic_maglev_track
 Topspeed=900
@@ -144,6 +152,7 @@ FrontImage[E]=tunnel.0.3
 ----
 Obj=tunnel
 Name=narrowgauge_tunnel
+Copyright=128Na
 Waytype=narrowgauge_track
 Way=basic_narrowgauge_track
 Topspeed=80
@@ -162,6 +171,7 @@ FrontImage[E]=tunnel.0.3
 ----
 Obj=tunnel
 Name=monorail_tunnel
+Copyright=128Na
 Waytype=monorail_track
 Way=basic_monorail_track
 Topspeed=120
@@ -180,6 +190,7 @@ FrontImage[E]=tunnel.0.3
 ----
 Obj=tunnel
 Name=power_tunnel
+Copyright=128Na
 Waytype=power
 Way=basic_power
 Cost=75000

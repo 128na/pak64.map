@@ -2,5 +2,5 @@
 # マップ外
 Obj=ground
 Name=Outside
-Copyright=128na
+Copyright=128Na
 Image[0][0]=outside.0.0

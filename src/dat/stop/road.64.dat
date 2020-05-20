@@ -1,6 +1,6 @@
 Obj=building
 Name=bus_stop
-Copyright=128na
+Copyright=128Na
 Dims=1,1,2
 Type=stop
 Extension_building=0
@@ -19,7 +19,7 @@ FrontImage[1][0][0][0][0]=stop.1.0,24,32
 ---
 Obj=building
 Name=truck_stop
-Copyright=128na
+Copyright=128Na
 Dims=1,1,2
 Type=stop
 Extension_building=0
@@ -38,7 +38,7 @@ FrontImage[1][0][0][0][0]=stop.1.1,24,32
 ---
 Obj=building
 Name=road_depot
-Copyright=128na
+Copyright=128Na
 Dims=1,1,2
 Type=depot
 Extension_building=0

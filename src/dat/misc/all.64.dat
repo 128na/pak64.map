@@ -1,5 +1,6 @@
 Obj=misc
 Name=Construction
+Copyright=128Na
 Image[0]=construction.0.0
 Image[1]=construction.0.1
 Image[2]=construction.0.2
@@ -10,6 +11,7 @@ Image[6]=construction.0.6
 --------------------
 Obj=misc
 Name=Sidewalk
+Copyright=128Na
 Image[0]=pavement.0.0
 Image[1]=-
 Image[2]=-
@@ -39,6 +41,7 @@ Image[25]=-
 --------------------
 Obj=misc
 Name=TunnelTexture
+Copyright=128Na
 Image[0]=pavement.0.0
 Image[1]=-
 Image[2]=-

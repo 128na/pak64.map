@@ -1,6 +1,6 @@
 Obj=building
 Name=station_building_single
-Copyright=128na
+Copyright=128Na
 Dims=1,1,2
 Type=extension
 Enables_pax=1
@@ -16,7 +16,7 @@ FrontImage[1][0][0][0][0]=ext.1.1
 ------
 Obj=building
 Name=station_building_side
-Copyright=128na
+Copyright=128Na
 Dims=1,1,4
 Type=extension
 Enables_pax=1
@@ -34,7 +34,7 @@ FrontImage[3][0][0][0][0]=ext.2.3
 ------
 Obj=building
 Name=station_building
-Copyright=128na
+Copyright=128Na
 Dims=1,1,1
 Type=extension
 Enables_pax=1
