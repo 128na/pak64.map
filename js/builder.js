@@ -14,12 +14,16 @@ module.exports = class Dat {
    * src/dir/foo.dat -> dist/dir.foo.pak
    */
   getDat(root, dist) {
+    const reg = /\d+/;
     return this.fs.readdirSync(`${root}/dat`)
       .filter(f => this.fs.statSync(`${root}/dat/${f}`).isDirectory())
       .map(d => this.fs.readdirSync(`${root}/dat/${d}`)
         .filter(f => this.fs.statSync(`${root}/dat/${d}/${f}`).isFile() && /.*\.dat$/.test(f))
         .map(f => {
+          const tmp = f.split('.');
+          const size = reg.test(tmp[tmp.length - 2]) ? tmp[tmp.length - 2] : 64;
           return {
+            size,
             in: `${root}/dat/${d}/${f}`,
             out: `${dist}/${d}.${f.replace('.dat', '.pak')}`
           };
@@ -37,15 +41,15 @@ module.exports = class Dat {
     if (this.fs.existsSync(dist) && this.fs.statSync(dist).isDirectory()) {
       try {
         this.fs.rmdirSync(dist, { recursive: true });
+        this.fs.mkdirSync(dist);
       } catch (e) {
-        failedMsg('rmdir failed')
+        failedMsg('refresh directory failed')
       }
     }
-    this.fs.mkdirSync(dist);
 
     const { exec } = require('child_process');
     const promises = dats.map(dat => {
-      const cmd = `makeobj pak64 ${dat.out} ${dat.in}`;
+      const cmd = `makeobj pak${dat.size || 64} ${dat.out} ${dat.in}`;
       return new Promise((resolve, reject) => {
         exec(cmd, (err, stdout, stderr) => {
           if (err) {

@@ -165,7 +165,7 @@ tile_height = 8
 draw_earth_border = 1
 
 # Tile the outside with the ground.ouside.pak (default 0 off)
-draw_outside_tile = 1
+draw_outside_tile = 0
 
 # special pak set colors for day and night
 special_color[0]=0x57, 0x65, 0x6F, 0xD3, 0xC3, 0x80 // Dark windows, lit yellowish at night
