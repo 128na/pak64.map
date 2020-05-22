@@ -111,7 +111,7 @@ Image[24]=> menu.4.14
 Image[25]=> menu.4.15
 Image[26]=> menu.4.16
 # builds city road
-Image[27]=> ../way/city_road.3.4
+Image[27]=> ../way/city_road.6.8
 # wayobjectremover tool icons
 Image[28]=> menu.4.12
 # world editor
