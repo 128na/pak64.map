@@ -14,7 +14,8 @@ https://github.com/128na/pak64.map/releases
 ## TIPS
 左側通行の設定や影の扱い方などのTIPS
 
-[tips.md](./docs/tips.md)
+- [TIPS](./docs/tips.md)
+- [命名則](./docs/naming_rule.md)
 
 ## 実装状況
 
