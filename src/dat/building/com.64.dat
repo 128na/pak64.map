@@ -1,6 +1,6 @@
 # □
 Obj=building
-Name=com_1x1-0-1
+Name=com-1x1-0-1
 Copyright=128Na
 Type=com
 Chance=100
@@ -10,7 +10,7 @@ BackImage[0][0][0][0][0]=../misc/pavement.0.0
 ---------
 # ■
 Obj=building
-Name=com_1x1-1-1
+Name=com-1x1-1-1
 Copyright=128Na
 Type=com
 Chance=100
@@ -20,7 +20,7 @@ BackImage[0][0][0][0][0]=1xL.0.7
 ---------
 # ■■
 Obj=building
-Name=com_2x1-2-1
+Name=com-2x1-2-1
 Copyright=128Na
 Type=com
 Chance=100
@@ -35,7 +35,7 @@ BackImage[1][1][0][0][0]=1xL.0.10
 # ■■
 # ■□
 Obj=building
-Name=com_2x2_3-1
+Name=com-2x2-3-1
 Copyright=128Na
 Type=com
 Chance=50
@@ -62,7 +62,7 @@ BackImage[3][1][1][0][0]=1xL.0.11
 # ■■
 # ■■
 Obj=building
-Name=com_2x2_4-1
+Name=com-2x2-4-1
 Copyright=128Na
 Type=com
 Chance=100
@@ -76,7 +76,7 @@ BackImage[0][1][1][0][0]=3x3.2.2
 ---------
 # ■■■
 Obj=building
-Name=com_3x1_3-1
+Name=com-3x1-3-1
 Copyright=128Na
 Type=com
 Chance=100
@@ -93,7 +93,7 @@ BackImage[1][2][0][0][0]=1xL.0.10
 # ■■■
 # ■□□
 Obj=building
-Name=com_3x2_4-1
+Name=com-3x2-4-1
 Copyright=128Na
 Type=com
 Chance=33
@@ -152,7 +152,7 @@ BackImage[7][2][1][0][0]=1xL.0.11
 # ■■□
 # □■■
 Obj=building
-Name=com_3x2_4-2
+Name=com-3x2-4-2
 Copyright=128Na
 Type=com
 Chance=33
@@ -211,7 +211,7 @@ BackImage[7][2][1][0][0]=../misc/pavement.0.0
 # ■■■
 # □■□
 Obj=building
-Name=com_3x2_4-3
+Name=com-3x2-4-3
 Copyright=128Na
 Type=com
 Chance=33
@@ -246,7 +246,7 @@ BackImage[3][2][1][0][0]=../misc/pavement.0.0
 # ■■■
 # ■■□
 Obj=building
-Name=com_3x2_5-1
+Name=com-3x2-5-1
 Copyright=128Na
 Type=com
 Chance=33
@@ -305,7 +305,7 @@ BackImage[7][2][1][0][0]=3x3.2.2
 # ■■■
 # ■□■
 Obj=building
-Name=com_3x2_5-2
+Name=com-3x2-5-2
 Copyright=128Na
 Type=com
 Chance=33
@@ -340,7 +340,7 @@ BackImage[3][2][1][0][0]=1xL.0.11
 # ■■■
 # ■■■
 Obj=building
-Name=com_3x2_6-1
+Name=com-3x2-6-1
 Copyright=128Na
 Type=com
 Chance=100
@@ -363,9 +363,9 @@ BackImage[1][2][1][0][0]=3x3.2.2
 # ■■■
 # ■□□
 # ■□□
-# Name=com_3x3_1
+# Name=com-3x3-1
 Obj=building
-Name=com_3x3_5-1
+Name=com-3x3-5-1
 Copyright=128Na
 Type=com
 Chance=25
@@ -412,18 +412,18 @@ BackImage[3][2][2][0][0]=1xL.0.11
 # □■■
 # ■■□
 # ■□□
-# Name=com_3x3_5-2
+# Name=com-3x3-5-2
 ---------
 # □□■
 # ■■■
 # ■□□
-# Name=com_3x3_5-3
+# Name=com-3x3-5-3
 ---------
 # □■□
 # ■■■
 # □■□
 Obj=building
-Name=com_3x3_5-4
+Name=com-3x3-5-4
 Copyright=128Na
 Type=com
 Chance=25
@@ -443,78 +443,78 @@ BackImage[0][2][2][0][0]=../misc/pavement.0.0
 # ■■■
 # ■■□
 # ■□□
-# Name=com_3x3_6-1
+# Name=com-3x3-6-1
 ---------
 # ■■■
 # ■■□
 # □■□
-# Name=com_3x3_6-2
+# Name=com-3x3-6-2
 ---------
 # ■■□
 # ■■■
 # □■□
-# Name=com_3x3_6-3
+# Name=com-3x3-6-3
 ---------
 # ■■□
 # ■■□
 # □■■
-# Name=com_3x3_6-4
+# Name=com-3x3-6-4
 ---------
 # ■■□
 # □■■
 # ■■□
-# Name=com_3x3_6-5
+# Name=com-3x3-6-5
 ---------
 # ■■■
 # ■□■
 # ■□□
-# Name=com_3x3_6-6
+# Name=com-3x3-6-6
 ---------
 # ■■■
 # ■■■
 # ■□□
-# Name=com_3x3_7-1
+# Name=com-3x3-7-1
 ---------
 # ■■■
 # ■■■
 # □■□
-# Name=com_3x3_7-2
+# Name=com-3x3-7-2
 ---------
 # ■■□
 # ■■■
 # □■■
-# Name=com_3x3_7-3
+# Name=com-3x3-7-3
 ---------
 # ■■□
 # ■■■
 # ■□■
-# Name=com_3x3_7-4
+# Name=com-3x3-7-4
 ---------
 # ■□■
 # ■■■
 # ■□■
-# Name=com_3x3_7-5
+# Name=com-3x3-7-5
 ---------
 # ■■■
 # ■□■
 # ■□■
-# Name=com_3x3_7-6
+# Name=com-3x3-7-6
 ---------
 # ■■■
 # ■■■
 # ■■□
-# Name=com_3x3_8-1
+# Name=com-3x3-8-1
 ---------
 # ■■■
 # ■■■
 # ■□■
-# Name=com_3x3_8-2
+# Name=com-3x3-8-2
 ---------
 # ■■■
 # ■□■
 # ■■■
 Obj=building
-Name=com_3x3_8-3
+Name=com-3x3-8-3
 Copyright=128Na
 Type=com
 Chance=25
@@ -535,7 +535,7 @@ BackImage[0][2][2][0][0]=1xL.0.2
 # ■■■
 # ■■■
 Obj=building
-Name=com_3x3_9-1
+Name=com-3x3-9-1
 Copyright=128Na
 Type=com
 Chance=100

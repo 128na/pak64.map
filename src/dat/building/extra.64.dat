@@ -1,6 +1,6 @@
 # 役所
 Obj=building
-Name=city
+Name=tow-1x1
 Copyright=128Na
 Type=tow
 Build_Time=0
@@ -12,7 +12,7 @@ FrontImage[0][0][0][0][0]=../marker.1.1
 BackImage[0][0][0][0][0]=special_1xL.0.7
 -----------------------------------------------------
 Obj=building
-Name=headquarter
+Name=hq-1x1
 Copyright=128Na
 NoInfo=1
 Type=hq

@@ -1,5 +1,5 @@
 Obj=roadsign
-Name=road_signal
+Name=roadsign-road-signal
 Copyright=128Na
 Waytype=road
 Min_speed=0

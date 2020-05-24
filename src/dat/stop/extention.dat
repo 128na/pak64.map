@@ -1,5 +1,5 @@
 Obj=building
-Name=station_building_single
+Name=ext-station_building_single
 Copyright=128Na
 Dims=1,1,2
 Type=extension
@@ -15,7 +15,7 @@ FrontImage[0][0][0][0][0]=ext.1.0
 FrontImage[1][0][0][0][0]=ext.1.1
 ------
 Obj=building
-Name=station_building_side
+Name=ext-station_building_side
 Copyright=128Na
 Dims=1,1,4
 Type=extension
@@ -33,7 +33,7 @@ FrontImage[2][0][0][0][0]=ext.2.2
 FrontImage[3][0][0][0][0]=ext.2.3
 ------
 Obj=building
-Name=station_building
+Name=ext-station_building
 Copyright=128Na
 Dims=1,1,1
 Type=extension

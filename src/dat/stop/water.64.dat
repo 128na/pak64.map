@@ -1,5 +1,5 @@
 Obj=building
-Name=water_stop
+Name=stop-water
 Copyright=128Na
 Dims=1,1,2
 Type=stop
@@ -18,7 +18,7 @@ FrontImage[0][0][0][0][0]=stop.1.2,24,32
 FrontImage[1][0][0][0][0]=stop.1.2,24,32
 ---
 Obj=building
-Name=water_depot
+Name=depot-water
 Copyright=128Na
 Dims=1,1,2
 Type=depot

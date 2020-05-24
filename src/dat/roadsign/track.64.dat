@@ -1,5 +1,5 @@
 Obj=roadsign
-Name=track_signal
+Name=roadsign-track-signal
 Copyright=128Na
 Waytype=track
 Cost=750
@@ -23,7 +23,7 @@ Image[6]=track_signal.1.2,6,-3
 Image[7]=track_signal.1.2,-12,6
 -----
 Obj=roadsign
-Name=track_pre_signal
+Name=roadsign-track-pre
 Copyright=128Na
 Waytype=track
 Cost=750
@@ -51,7 +51,7 @@ Image[10]=track_signal.0.2,6,-3
 Image[11]=track_signal.0.2,-12,6
 -----
 Obj=roadsign
-Name=track_choose_signal
+Name=roadsign-track-choose
 Copyright=128Na
 Waytype=track
 Cost=750

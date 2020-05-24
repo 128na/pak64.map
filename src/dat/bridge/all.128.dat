@@ -1,5 +1,5 @@
 Obj=bridge
-Name=basic_track_bridge
+Name=bridge-track-basic
 Copyright=128Na
 Waytype=track
 Topspeed=120
@@ -29,7 +29,7 @@ BackRamp2[E]=rail_b.5.3
 BackRamp2[W]=rail_b.5.1
 ------
 Obj=bridge
-Name=basic_JR_track_bridge
+Name=bridge-track-JR
 Copyright=128Na
 Waytype=track
 Topspeed=130
@@ -59,7 +59,7 @@ BackRamp2[E]=jr_rail_b.5.3
 BackRamp2[W]=jr_rail_b.5.1
 ------
 Obj=bridge
-Name=basic_highspeed_track_bridge
+Name=bridge-track-highspeed
 Copyright=128Na
 Waytype=track
 Topspeed=400
@@ -89,7 +89,7 @@ BackRamp2[E]=jr_hs_b.5.3
 BackRamp2[W]=jr_hs_b.5.1
 ------
 Obj=bridge
-Name=basic_monorail_track_bridge
+Name=bridge-monorail_track
 Copyright=128Na
 Waytype=monorail_track
 Topspeed=120
@@ -119,7 +119,7 @@ BackRamp2[E]=monorail_b.5.3
 BackRamp2[W]=monorail_b.5.1
 ------
 Obj=bridge
-Name=basic_maglev_track_bridge
+Name=bridge-maglev_track
 Copyright=128Na
 Waytype=maglev_track
 Topspeed=900
@@ -149,7 +149,7 @@ BackRamp2[E]=jr_hs2_b.5.3
 BackRamp2[W]=jr_hs2_b.5.1
 ------
 Obj=bridge
-Name=basic_narrowgauge_track_bridge
+Name=bridge-narrowgauge_track
 Copyright=128Na
 Waytype=narrowgauge_track
 Topspeed=80
@@ -179,7 +179,7 @@ BackRamp2[E]=narrow_b.5.3
 BackRamp2[W]=narrow_b.5.1
 ------
 Obj=bridge
-Name=city_road_bridge
+Name=bridge-road-city
 Copyright=128Na
 Waytype=road
 Topspeed=50
@@ -209,7 +209,7 @@ BackRamp2[E]=city_road_b.5.3
 BackRamp2[W]=city_road_b.5.1
 ------
 Obj=bridge
-Name=main_road_bridge
+Name=bridge-road-main
 Copyright=128Na
 Waytype=road
 Topspeed=80
@@ -239,7 +239,7 @@ BackRamp2[E]=main_road_b.5.3
 BackRamp2[W]=main_road_b.5.1
 ------
 Obj=bridge
-Name=highway_road_bridge
+Name=bridge-road-highway
 Copyright=128Na
 Waytype=road
 Topspeed=120
@@ -269,7 +269,7 @@ BackRamp2[E]=highway_road_b.5.3
 BackRamp2[W]=highway_road_b.5.1
 ------
 Obj=bridge
-Name=canal_bridge
+Name=bridge-road-water
 Copyright=128Na
 Waytype=water
 Topspeed=50

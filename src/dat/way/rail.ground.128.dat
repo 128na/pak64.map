@@ -1,5 +1,5 @@
 Obj=way
-Name=basic_track
+Name=way-track
 Copyright=128Na
 Cost=8000
 Maintenance=500
@@ -37,7 +37,7 @@ ImageUp2[3][0]=rail.5.2
 ImageUp2[6][0]=rail.5.3
 -------
 Obj=way
-Name=basic_JR_track
+Name=way-track-JR
 Copyright=128Na
 Cost=8000
 Maintenance=500
@@ -75,7 +75,7 @@ ImageUp2[3][0]=jr_rail.5.2
 ImageUp2[6][0]=jr_rail.5.3
 -------
 Obj=way
-Name=basic_highspeed_track
+Name=way-track-highspeed
 Copyright=128Na
 Cost=8000
 Maintenance=500
@@ -113,7 +113,7 @@ ImageUp2[3][0]=jr_hs.5.2
 ImageUp2[6][0]=jr_hs.5.3
 -------
 Obj=way
-Name=basic_tram_track
+Name=way-tram_track
 Copyright=128Na
 Cost=8000
 Maintenance=500
@@ -151,7 +151,7 @@ ImageUp2[3][0]=tram.5.2
 ImageUp2[6][0]=tram.5.3
 -------
 Obj=way
-Name=basic_monorail_track
+Name=way-monorail_track
 Copyright=128Na
 Cost=8000
 Maintenance=500
@@ -189,7 +189,7 @@ ImageUp2[3][0]=monorail.5.2
 ImageUp2[6][0]=monorail.5.3
 -------
 Obj=way
-Name=basic_maglev_track
+Name=way-maglev_track
 Copyright=128Na
 Cost=8000
 Maintenance=500
@@ -227,7 +227,7 @@ ImageUp2[3][0]=jr_hs2.5.2
 ImageUp2[6][0]=jr_hs2.5.3
 -------
 Obj=way
-Name=basic_narrowgauge_track
+Name=way-narrowgauge_track
 Copyright=128Na
 Cost=8000
 Maintenance=500

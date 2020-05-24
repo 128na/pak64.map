@@ -1,5 +1,5 @@
 Obj=roadsign
-Name=monorail_track_signal
+Name=roadsign-monorail_track-signal
 Copyright=128Na
 Waytype=monorail_track
 Cost=750
@@ -24,7 +24,7 @@ Image[6]=track_signal.1.2,6,-3
 Image[7]=track_signal.1.2,-12,6
 -----
 Obj=roadsign
-Name=monorail_track_pre_signal
+Name=roadsign-monorail_track-pre
 Copyright=128Na
 Waytype=monorail_track
 Cost=750
@@ -53,7 +53,7 @@ Image[10]=track_signal.0.2,6,-3
 Image[11]=track_signal.0.2,-12,6
 -----
 Obj=roadsign
-Name=monorail_track_choose_signal
+Name=roadsign-monorail_track_choose
 Copyright=128Na
 Waytype=monorail_track
 Cost=750

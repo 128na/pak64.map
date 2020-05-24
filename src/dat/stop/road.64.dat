@@ -1,5 +1,5 @@
 Obj=building
-Name=bus_stop
+Name=stop-road-bus
 Copyright=128Na
 Dims=1,1,2
 Type=stop
@@ -18,7 +18,7 @@ FrontImage[0][0][0][0][0]=stop.1.0,24,32
 FrontImage[1][0][0][0][0]=stop.1.0,24,32
 ---
 Obj=building
-Name=truck_stop
+Name=stop-road-truck
 Copyright=128Na
 Dims=1,1,2
 Type=stop
@@ -37,7 +37,7 @@ FrontImage[0][0][0][0][0]=stop.1.1,24,32
 FrontImage[1][0][0][0][0]=stop.1.1,24,32
 ---
 Obj=building
-Name=road_depot
+Name=depot-road
 Copyright=128Na
 Dims=1,1,2
 Type=depot

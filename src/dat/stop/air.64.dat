@@ -1,5 +1,5 @@
 Obj=building
-Name=air_stop
+Name=stop-air
 Copyright=128Na
 Dims=1,1,2
 Type=stop
@@ -18,7 +18,7 @@ FrontImage[0][0][0][0][0]=stop.1.3,24,32
 FrontImage[1][0][0][0][0]=stop.1.3,24,32
 ---
 Obj=building
-Name=air_depot
+Name=depot-air
 Copyright=128Na
 Dims=1,1,2
 Type=depot

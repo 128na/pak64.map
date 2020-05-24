@@ -1,5 +1,5 @@
 Obj=way
-Name=shadow_track
+Name=way-track-special-shadow_track
 Copyright=128Na
 Cost=8000
 Maintenance=500
@@ -38,7 +38,7 @@ ImageUp2[3][0]=rail_shadow.5.2
 ImageUp2[6][0]=rail_shadow.5.3
 ------
 Obj=way
-Name=shadow_road
+Name=way-track-special-shadow_road
 Copyright=128Na
 Cost=7500
 Maintenance=300

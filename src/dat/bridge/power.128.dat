@@ -1,5 +1,5 @@
 Obj=bridge
-Name=power_bridge
+Name=bridge-power
 Copyright=128Na
 Waytype=power
 Cost=420000

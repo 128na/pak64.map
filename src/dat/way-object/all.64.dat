@@ -1,5 +1,5 @@
 Obj=way-object
-Name=track_electrify
+Name=way-object-track
 Copyright=128Na
 cost=6500
 maintenance=150
@@ -34,7 +34,7 @@ BackImageUp[9]=wayobj.1.0
 BackImageUp[12]=wayobj.1.0
 ------
 Obj=way-object
-Name=tram_track_electrify
+Name=way-object-tram_track
 Copyright=128Na
 cost=6500
 maintenance=150
@@ -69,7 +69,7 @@ BackImageUp[9]=wayobj.1.0
 BackImageUp[12]=wayobj.1.0
 ------
 Obj=way-object
-Name=narrowgauge_track_electrify
+Name=way-object-narrowgauge_track
 Copyright=128Na
 cost=6500
 maintenance=150

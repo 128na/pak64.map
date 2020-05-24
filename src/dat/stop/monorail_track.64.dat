@@ -1,5 +1,5 @@
 Obj=building
-Name=monorail_track_station_single
+Name=stop-monorail_track-single
 Copyright=128Na
 Dims=1,1,2
 Type=stop
@@ -18,7 +18,7 @@ BackImage[0][0][0][0][0]=station.1.0
 BackImage[1][0][0][0][0]=station.1.1
 ------
 Obj=building
-Name=monorail_track_station_side
+Name=stop-monorail_track-side
 Copyright=128Na
 Dims=1,1,16
 Type=stop
@@ -51,7 +51,7 @@ BackImage[13][0][0][0][0]=station.2.1
 BackImage[15][0][0][0][0]=station.2.1
 ------
 Obj=building
-Name=monorail_track_station
+Name=stop-monorail_track
 Copyright=128Na
 Dims=1,1,2
 Type=stop
@@ -70,7 +70,7 @@ BackImage[0][0][0][0][0]=station.1.2
 BackImage[1][0][0][0][0]=station.1.2
 ------
 Obj=building
-Name=monorail_track_depot
+Name=depot-monorail_track
 Copyright=128Na
 Dims=1,1,2
 Type=depot

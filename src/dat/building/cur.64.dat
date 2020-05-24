@@ -1,5 +1,5 @@
 Obj=building
-Name=park_1x1
+Name=cur-park-1x1
 Copyright=128Na
 Type=cur
 Passengers=50
@@ -8,7 +8,7 @@ Dims=1,1
 FrontImage[0][0][0][0][0]=../marker.0.2
 ----
 Obj=building
-Name=parking_1x1
+Name=cur-parking-1x1
 Copyright=128Na
 Type=cur
 Passengers=100
@@ -18,7 +18,7 @@ FrontImage[0][0][0][0][0]=../marker.0.3
 BackImage[0][0][0][0][0]=../misc/pavement.0.0
 ----
 Obj=building
-Name=shop_1x1
+Name=cur-shop-1x1
 Copyright=128Na
 Type=cur
 Passengers=100
@@ -28,7 +28,7 @@ FrontImage[0][0][0][0][0]=../marker.0.4
 BackImage[0][0][0][0][0]=special_1xL.0.7
 ----
 Obj=building
-Name=market_1x1
+Name=cur-market-1x1
 Copyright=128Na
 Type=cur
 Passengers=100
@@ -38,7 +38,7 @@ FrontImage[0][0][0][0][0]=../marker.1.4
 BackImage[0][0][0][0][0]=special_1xL.0.7
 ----
 Obj=building
-Name=restaurant_1x1
+Name=cur-restaurant-1x1
 Copyright=128Na
 Type=cur
 Passengers=100
@@ -48,7 +48,7 @@ FrontImage[0][0][0][0][0]=../marker.0.5
 BackImage[0][0][0][0][0]=special_1xL.0.7
 ----
 Obj=building
-Name=cafe_1x1
+Name=cur-cafe-1x1
 Copyright=128Na
 Type=cur
 Passengers=100
@@ -58,7 +58,7 @@ FrontImage[0][0][0][0][0]=../marker.1.5
 BackImage[0][0][0][0][0]=special_1xL.0.7
 ----
 Obj=building
-Name=hospital_1x1
+Name=cur-hospital-1x1
 Copyright=128Na
 Type=cur
 Passengers=100
@@ -68,7 +68,7 @@ FrontImage[0][0][0][0][0]=../marker.0.6
 BackImage[0][0][0][0][0]=special_1xL.0.7
 ----
 Obj=building
-Name=pharmacy_1x1
+Name=cur-pharmacy-1x1
 Copyright=128Na
 Type=cur
 Passengers=100
@@ -78,7 +78,7 @@ FrontImage[0][0][0][0][0]=../marker.1.6
 BackImage[0][0][0][0][0]=special_1xL.0.7
 ----
 Obj=building
-Name=hotel_1x1
+Name=cur-hotel-1x1
 Copyright=128Na
 Type=cur
 Passengers=100
@@ -88,7 +88,7 @@ FrontImage[0][0][0][0][0]=../marker.0.7
 BackImage[0][0][0][0][0]=special_1xL.0.7
 ----
 Obj=building
-Name=interest_1x1
+Name=cur-interest-1x1
 Copyright=128Na
 Type=cur
 Passengers=100

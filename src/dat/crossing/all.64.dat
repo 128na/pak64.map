@@ -1,6 +1,6 @@
 ------
 Obj=crossing
-Name=crossing_water_x_road
+Name=crossing-water-road
 Copyright=128Na
 Sound=-1
 Waytype[0]=road
@@ -13,7 +13,7 @@ OpenImage[EW][0]=crossing.2.0
 ClosedImage[EW][0]=crossing.2.0
 ------
 Obj=crossing
-Name=crossing_water_x_track
+Name=crossing-water-track
 Copyright=128Na
 Sound=-1
 Waytype[0]=track
@@ -26,7 +26,7 @@ OpenImage[EW][0]=crossing.5.0
 ClosedImage[EW][0]=crossing.5.0
 ------
 Obj=crossing
-Name=crossing_water_x_JR_track
+Name=crossing-water-track-JR
 Copyright=128Na
 Sound=-1
 Waytype[0]=track
@@ -39,7 +39,7 @@ OpenImage[EW][0]=crossing.8.0
 ClosedImage[EW][0]=crossing.8.0
 ------
 Obj=crossing
-Name=crossing_water_x_highspeed_track
+Name=crossing-water-track-highspeed
 Copyright=128Na
 Sound=-1
 Waytype[0]=track
@@ -52,7 +52,7 @@ OpenImage[EW][0]=crossing.11.0
 ClosedImage[EW][0]=crossing.11.0
 ------
 Obj=crossing
-Name=crossing_water_x_maglev_track
+Name=crossing-water-maglev_track
 Copyright=128Na
 Sound=-1
 Waytype[0]=maglev_track
@@ -65,7 +65,7 @@ OpenImage[EW][0]=crossing.12.0
 ClosedImage[EW][0]=crossing.12.0
 ------
 Obj=crossing
-Name=crossing_water_x_monorail_track
+Name=crossing-water-monorail_track
 Copyright=128Na
 Sound=-1
 Waytype[0]=monorail_track
@@ -78,7 +78,7 @@ OpenImage[EW][0]=crossing.13.0
 ClosedImage[EW][0]=crossing.13.0
 ------
 Obj=crossing
-Name=crossing_water_x_narrowgauge_track
+Name=crossing-water-narrowgauge_track
 Copyright=128Na
 Sound=-1
 Waytype[0]=water
@@ -91,7 +91,7 @@ OpenImage[EW][0]=crossing.4.1
 ClosedImage[EW][0]=crossing.4.1
 ------
 Obj=crossing
-Name=crossing_narrowgauge_track_x_road
+Name=crossing-narrowgauge_track-road
 Copyright=128Na
 Sound=-1
 Waytype[0]=road
@@ -104,7 +104,7 @@ OpenImage[EW][0]=-
 ClosedImage[EW][0]=-
 ------
 Obj=crossing
-Name=crossing_track_x_road
+Name=crossing-track-road
 Copyright=128Na
 Sound=-1
 Waytype[0]=road
@@ -117,7 +117,7 @@ OpenImage[EW][0]=-
 ClosedImage[EW][0]=-
 ------
 Obj=crossing
-Name=crossing_track_x_narrowgauge_track
+Name=crossing-track-narrowgauge_track
 Copyright=128Na
 Sound=-1
 Waytype[0]=track

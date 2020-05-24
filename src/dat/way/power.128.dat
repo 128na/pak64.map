@@ -1,5 +1,5 @@
 Obj=way
-Name=basic_power
+Name=way-power
 Copyright=128Na
 Cost=8000
 Maintenance=500
@@ -40,7 +40,7 @@ ImageUp2[6]=power.5.3
 -------
 # 作成可能だが想定されていないのかクラッシュしやすいので保留
 # Obj=way
-# Name=basic_power_elevated
+# Name=way-power-elevated
 # Copyright=128Na
 # Cost=8000
 # Maintenance=500
