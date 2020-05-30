@@ -1,47 +1,47 @@
-# □
+# ⬜️
 Obj=building
 Name=res-1x1-0-1
 Copyright=128Na
 type=res
 chance=100
 Level=1
-clusters=0,1,10
+clusters=0,1
 BackImage[0][0][0][0][0]=../misc/pavement.0.0
 ---------
-# ■
+# ⬛️
 Obj=building
 Name=res-1x1-1-1
 Copyright=128Na
 type=res
 chance=100
 Level=2
-clusters=1,2,10
+clusters=1,11
 BackImage[0][0][0][0][0]=1xL.0.7
 ---------
-# ■■
+# ⬛️⬛️
 Obj=building
 Name=res-2x1-2-1
 Copyright=128Na
 type=res
 chance=100
-Level=2
+Level=4
 dims=2,1,2
-clusters=1,2,10
+clusters=1,11
 BackImage[0][0][0][0][0]=1xL.0.8
 BackImage[0][0][1][0][0]=1xL.0.11
 BackImage[1][0][0][0][0]=1xL.0.9
 BackImage[1][1][0][0][0]=1xL.0.10
 ---------
-# ■■
-# ■□
+# ⬛️⬛️
+# ⬛️⬜️
 Obj=building
 Name=res-2x2-3-1
 Copyright=128Na
 type=res
 chance=50
-Level=2
+Level=11
 dims=2,2,4
-clusters=1,2,3,10
+clusters=1,11
 BackImage[0][0][0][0][0]=../misc/pavement.0.0
 BackImage[0][0][1][0][0]=1xL.0.9
 BackImage[0][1][0][0][0]=1xL.0.8
@@ -59,30 +59,30 @@ BackImage[3][0][1][0][0]=../misc/pavement.0.0
 BackImage[3][1][0][0][0]=1xL.0.3
 BackImage[3][1][1][0][0]=1xL.0.11
 ---------
-# ■■
-# ■■
+# ⬛️⬛️
+# ⬛️⬛️
 Obj=building
 Name=res-2x2-4-1
 Copyright=128Na
 type=res
 chance=100
-Level=2
+Level=16
 dims=2,2,1
-clusters=1,2,3,10
+clusters=1,11,12
 BackImage[0][0][0][0][0]=3x3.0.0
 BackImage[0][0][1][0][0]=3x3.0.2
 BackImage[0][1][0][0][0]=3x3.2.0
 BackImage[0][1][1][0][0]=3x3.2.2
 ---------
-# ■■■
+# ⬛️⬛️⬛️
 Obj=building
 Name=res-3x1-3-1
 Copyright=128Na
 type=res
 chance=100
-Level=2
+Level=9
 dims=3,1,2
-clusters=1,2,3,10
+clusters=1,11,12
 BackImage[0][0][0][0][0]=1xL.0.8
 BackImage[0][0][1][0][0]=1xL.0.5
 BackImage[0][0][2][0][0]=1xL.0.11
@@ -90,16 +90,16 @@ BackImage[1][0][0][0][0]=1xL.0.9
 BackImage[1][1][0][0][0]=1xL.0.4
 BackImage[1][2][0][0][0]=1xL.0.10
 ---------
-# ■■■
-# ■□□
+# ⬛️⬛️⬛️
+# ⬛️⬜️⬜️
 Obj=building
 Name=res-3x2-4-1
 Copyright=128Na
 type=res
 chance=33
-Level=2
+Level=22
 dims=3,2,8
-clusters=1,2,3,10
+clusters=1,12
 BackImage[0][0][0][0][0]=1xL.0.9
 BackImage[0][0][1][0][0]=../misc/pavement.0.0
 BackImage[0][0][2][0][0]=../misc/pavement.0.0
@@ -149,16 +149,16 @@ BackImage[7][1][1][0][0]=../misc/pavement.0.0
 BackImage[7][2][0][0][0]=1xL.0.3
 BackImage[7][2][1][0][0]=1xL.0.11
 ---------
-# ■■□
-# □■■
+# ⬛️⬛️⬜️
+# ⬜️⬛️⬛️
 Obj=building
 Name=res-3x2-4-2
 Copyright=128Na
 type=res
 chance=33
-Level=2
+Level=22
 dims=3,2,8
-clusters=1,2,3,10
+clusters=1,12
 BackImage[0][0][0][0][0]=../misc/pavement.0.0
 BackImage[0][0][1][0][0]=1xL.0.0
 BackImage[0][0][2][0][0]=1xL.0.11
@@ -208,16 +208,16 @@ BackImage[7][1][1][0][0]=1xL.0.2
 BackImage[7][2][0][0][0]=1xL.0.10
 BackImage[7][2][1][0][0]=../misc/pavement.0.0
 ---------
-# ■■■
-# □■□
+# ⬛️⬛️⬛️
+# ⬜️⬛️⬜️
 Obj=building
 Name=res-3x2-4-3
 Copyright=128Na
 type=res
 chance=33
-Level=2
+Level=22
 dims=3,2,4
-clusters=1,2,3,10
+clusters=1,12
 BackImage[0][0][0][0][0]=../misc/pavement.0.0
 BackImage[0][0][1][0][0]=1xL.0.9
 BackImage[0][0][2][0][0]=../misc/pavement.0.0
@@ -243,16 +243,16 @@ BackImage[3][1][1][0][0]=1xL.0.11
 BackImage[3][2][0][0][0]=1xL.0.10
 BackImage[3][2][1][0][0]=../misc/pavement.0.0
 ---------
-# ■■■
-# ■■□
+# ⬛️⬛️⬛️
+# ⬛️⬛️⬜️
 Obj=building
 Name=res-3x2-5-1
 Copyright=128Na
 type=res
 chance=33
-Level=2
+Level=26
 dims=3,2,8
-clusters=1,2,3,10
+clusters=1,12
 BackImage[0][0][0][0][0]=3x3.0.0
 BackImage[0][0][1][0][0]=3x3.0.2
 BackImage[0][0][2][0][0]=../misc/pavement.0.0
@@ -302,16 +302,16 @@ BackImage[7][1][1][0][0]=3x3.0.2
 BackImage[7][2][0][0][0]=3x3.2.0
 BackImage[7][2][1][0][0]=3x3.2.2
 ---------
-# ■■■
-# ■□■
+# ⬛️⬛️⬛️
+# ⬛️⬜️⬛️
 Obj=building
 Name=res-3x2-5-2
 Copyright=128Na
 type=res
 chance=33
-Level=2
+Level=26
 dims=3,2,4
-clusters=1,2,3,10
+clusters=1,12
 BackImage[0][0][0][0][0]=1xL.0.9
 BackImage[0][0][1][0][0]=../misc/pavement.0.0
 BackImage[0][0][2][0][0]=1xL.0.9
@@ -337,16 +337,16 @@ BackImage[3][1][1][0][0]=../misc/pavement.0.0
 BackImage[3][2][0][0][0]=1xL.0.3
 BackImage[3][2][1][0][0]=1xL.0.11
 ---------
-# ■■■
-# ■■■
+# ⬛️⬛️⬛️
+# ⬛️⬛️⬛️
 Obj=building
 Name=res-3x2-6-1
 Copyright=128Na
 type=res
 chance=100
-Level=2
+Level=36
 dims=3,2,2
-clusters=2,3,10
+clusters=1,12,13
 BackImage[0][0][0][0][0]=3x3.0.0
 BackImage[0][0][1][0][0]=3x3.0.1
 BackImage[0][0][2][0][0]=3x3.0.2
@@ -360,18 +360,18 @@ BackImage[1][1][1][0][0]=3x3.1.2
 BackImage[1][2][0][0][0]=3x3.2.0
 BackImage[1][2][1][0][0]=3x3.2.2
 ---------
-# ■■■
-# ■□□
-# ■□□
+# ⬛️⬛️⬛️
+# ⬛️⬜️⬜️
+# ⬛️⬜️⬜️
 # Name=res-3x3-1
 Obj=building
 Name=res-3x3-5-1
 Copyright=128Na
 type=res
 chance=25
-Level=2
+Level=41
 dims=3,3,4
-clusters=2,3,10
+clusters=1,13
 BackImage[0][0][0][0][0]=../misc/pavement.0.0
 BackImage[0][0][1][0][0]=../misc/pavement.0.0
 BackImage[0][0][2][0][0]=1xL.0.9
@@ -409,27 +409,27 @@ BackImage[3][2][0][0][0]=1xL.0.3
 BackImage[3][2][1][0][0]=1xL.0.5
 BackImage[3][2][2][0][0]=1xL.0.11
 ---------
-# □■■
-# ■■□
-# ■□□
+# ⬜️⬛️⬛️
+# ⬛️⬛️⬜️
+# ⬛️⬜️⬜️
 # Name=res-3x3-5-2
 ---------
-# □□■
-# ■■■
-# ■□□
+# ⬜️⬜️⬛️
+# ⬛️⬛️⬛️
+# ⬛️⬜️⬜️
 # Name=res-3x3-5-3
 ---------
-# □■□
-# ■■■
-# □■□
+# ⬜️⬛️⬜️
+# ⬛️⬛️⬛️
+# ⬜️⬛️⬜️
 Obj=building
 Name=res-3x3-5-4
 Copyright=128Na
 type=res
 chance=25
-Level=2
+Level=41
 dims=3,3,1
-clusters=2,3,10
+clusters=1,13
 BackImage[0][0][0][0][0]=../misc/pavement.0.0
 BackImage[0][0][1][0][0]=1xL.0.9
 BackImage[0][0][2][0][0]=../misc/pavement.0.0
@@ -440,87 +440,87 @@ BackImage[0][2][0][0][0]=../misc/pavement.0.0
 BackImage[0][2][1][0][0]=1xL.0.10
 BackImage[0][2][2][0][0]=../misc/pavement.0.0
 ---------
-# ■■■
-# ■■□
-# ■□□
+# ⬛️⬛️⬛️
+# ⬛️⬛️⬜️
+# ⬛️⬜️⬜️
 # Name=res-3x3-6-1
 ---------
-# ■■■
-# ■■□
-# □■□
+# ⬛️⬛️⬛️
+# ⬛️⬛️⬜️
+# ⬜️⬛️⬜️
 # Name=res-3x3-6-2
 ---------
-# ■■□
-# ■■■
-# □■□
+# ⬛️⬛️⬜️
+# ⬛️⬛️⬛️
+# ⬜️⬛️⬜️
 # Name=res-3x3-6-3
 ---------
-# ■■□
-# ■■□
-# □■■
+# ⬛️⬛️⬜️
+# ⬛️⬛️⬜️
+# ⬜️⬛️⬛️
 # Name=res-3x3-6-4
 ---------
-# ■■□
-# □■■
-# ■■□
+# ⬛️⬛️⬜️
+# ⬜️⬛️⬛️
+# ⬛️⬛️⬜️
 # Name=res-3x3-6-5
 ---------
-# ■■■
-# ■□■
-# ■□□
+# ⬛️⬛️⬛️
+# ⬛️⬜️⬛️
+# ⬛️⬜️⬜️
 # Name=res-3x3-6-6
 ---------
-# ■■■
-# ■■■
-# ■□□
+# ⬛️⬛️⬛️
+# ⬛️⬛️⬛️
+# ⬛️⬜️⬜️
 # Name=res-3x3-7-1
 ---------
-# ■■■
-# ■■■
-# □■□
+# ⬛️⬛️⬛️
+# ⬛️⬛️⬛️
+# ⬜️⬛️⬜️
 # Name=res-3x3-7-2
 ---------
-# ■■□
-# ■■■
-# □■■
+# ⬛️⬛️⬜️
+# ⬛️⬛️⬛️
+# ⬜️⬛️⬛️
 # Name=res-3x3-7-3
 ---------
-# ■■□
-# ■■■
-# ■□■
+# ⬛️⬛️⬜️
+# ⬛️⬛️⬛️
+# ⬛️⬜️⬛️
 # Name=res-3x3-7-4
 ---------
-# ■□■
-# ■■■
-# ■□■
+# ⬛️⬜️⬛️
+# ⬛️⬛️⬛️
+# ⬛️⬜️⬛️
 # Name=res-3x3-7-5
 ---------
-# ■■■
-# ■□■
-# ■□■
+# ⬛️⬛️⬛️
+# ⬛️⬜️⬛️
+# ⬛️⬜️⬛️
 # Name=res-3x3-7-6
 ---------
-# ■■■
-# ■■■
-# ■■□
+# ⬛️⬛️⬛️
+# ⬛️⬛️⬛️
+# ⬛️⬛️⬜️
 # Name=res-3x3-8-1
 ---------
-# ■■■
-# ■■■
-# ■□■
+# ⬛️⬛️⬛️
+# ⬛️⬛️⬛️
+# ⬛️⬜️⬛️
 # Name=res-3x3-8-2
 ---------
-# ■■■
-# ■□■
-# ■■■
+# ⬛️⬛️⬛️
+# ⬛️⬜️⬛️
+# ⬛️⬛️⬛️
 Obj=building
 Name=res-3x3-8-3
 Copyright=128Na
 type=res
 chance=25
-Level=2
+Level=71
 dims=3,3,1
-clusters=2,3,10
+clusters=1,13
 BackImage[0][0][0][0][0]=1xL.0.0
 BackImage[0][0][1][0][0]=1xL.0.5
 BackImage[0][0][2][0][0]=1xL.0.1
@@ -531,17 +531,17 @@ BackImage[0][2][0][0][0]=1xL.0.3
 BackImage[0][2][1][0][0]=1xL.0.5
 BackImage[0][2][2][0][0]=1xL.0.2
 ---------
-# ■■■
-# ■■■
-# ■■■
+# ⬛️⬛️⬛️
+# ⬛️⬛️⬛️
+# ⬛️⬛️⬛️
 Obj=building
 Name=res-3x3-9-1
 Copyright=128Na
 type=res
 chance=100
-Level=2
+Level=81
 dims=3,3,1
-clusters=3,10
+clusters=1,13,14
 BackImage[0][0][0][0][0]=3x3.0.0
 BackImage[0][0][1][0][0]=3x3.0.1
 BackImage[0][0][2][0][0]=3x3.0.2
@@ -551,3 +551,113 @@ BackImage[0][1][2][0][0]=3x3.1.2
 BackImage[0][2][0][0][0]=3x3.2.0
 BackImage[0][2][1][0][0]=3x3.2.1
 BackImage[0][2][2][0][0]=3x3.2.2
+---------
+# ⬛️⬛️⬛️⬛️
+Obj=building
+Name=res-4x1-4-1
+Copyright=128Na
+type=res
+chance=100
+Level=16
+dims=4,1,2
+clusters=1,14
+BackImage[0][0][0][0][0]=1xL.0.8
+BackImage[0][0][1][0][0]=1xL.0.5
+BackImage[0][0][2][0][0]=1xL.0.5
+BackImage[0][0][3][0][0]=1xL.0.11
+BackImage[1][0][0][0][0]=1xL.0.9
+BackImage[1][1][0][0][0]=1xL.0.4
+BackImage[1][2][0][0][0]=1xL.0.4
+BackImage[1][3][0][0][0]=1xL.0.10
+---------
+# ⬛️⬛️⬛️⬛️
+# ⬛️⬛️⬛️⬛️
+Obj=building
+Name=res-4x2-8-1
+Copyright=128Na
+type=res
+chance=100
+Level=64
+dims=4,2,2
+clusters=1,14,15
+BackImage[0][0][0][0][0]=3x3.0.0
+BackImage[0][0][1][0][0]=3x3.0.1
+BackImage[0][0][2][0][0]=3x3.0.1
+BackImage[0][0][3][0][0]=3x3.0.2
+BackImage[0][1][0][0][0]=3x3.2.0
+BackImage[0][1][1][0][0]=3x3.2.1
+BackImage[0][1][2][0][0]=3x3.2.1
+BackImage[0][1][3][0][0]=3x3.2.2
+BackImage[1][0][0][0][0]=3x3.0.0
+BackImage[1][0][1][0][0]=3x3.0.2
+BackImage[1][1][0][0][0]=3x3.1.0
+BackImage[1][1][1][0][0]=3x3.1.2
+BackImage[1][2][0][0][0]=3x3.1.0
+BackImage[1][2][1][0][0]=3x3.1.2
+BackImage[1][3][0][0][0]=3x3.2.0
+BackImage[1][3][1][0][0]=3x3.2.2
+# ---------
+# # ⬛️⬛️⬛️⬛️
+# # ⬛️⬛️⬛️⬛️
+# # ⬛️⬛️⬛️⬛️
+# Obj=building
+# Name=res-4x3-12-1
+# Copyright=128Na
+# type=res
+# chance=100
+# Level=144
+# dims=4,3,2
+# clusters=1,15
+# BackImage[0][0][0][0][0]=3x3.0.0
+# BackImage[0][0][1][0][0]=3x3.0.1
+# BackImage[0][0][2][0][0]=3x3.0.1
+# BackImage[0][0][3][0][0]=3x3.0.2
+# BackImage[0][1][0][0][0]=3x3.1.0
+# BackImage[0][1][1][0][0]=3x3.1.1
+# BackImage[0][1][2][0][0]=3x3.1.1
+# BackImage[0][1][3][0][0]=3x3.1.2
+# BackImage[0][2][0][0][0]=3x3.2.0
+# BackImage[0][2][1][0][0]=3x3.2.1
+# BackImage[0][2][2][0][0]=3x3.2.1
+# BackImage[0][2][3][0][0]=3x3.2.2
+# BackImage[1][0][0][0][0]=3x3.0.0
+# BackImage[1][0][1][0][0]=3x3.0.1
+# BackImage[1][0][2][0][0]=3x3.0.2
+# BackImage[1][1][0][0][0]=3x3.1.0
+# BackImage[1][1][1][0][0]=3x3.1.1
+# BackImage[1][1][2][0][0]=3x3.1.2
+# BackImage[1][2][0][0][0]=3x3.1.0
+# BackImage[1][2][1][0][0]=3x3.1.1
+# BackImage[1][2][2][0][0]=3x3.1.2
+# BackImage[1][3][0][0][0]=3x3.2.0
+# BackImage[1][3][1][0][0]=3x3.2.1
+# BackImage[1][3][2][0][0]=3x3.2.2
+# ---------
+# # ⬛️⬛️⬛️⬛️
+# # ⬛️⬛️⬛️⬛️
+# # ⬛️⬛️⬛️⬛️
+# # ⬛️⬛️⬛️⬛️
+# Obj=building
+# Name=res-4x4-16-1
+# Copyright=128Na
+# type=res
+# chance=100
+# Level=256
+# dims=4,4,1
+# clusters=1,15,16
+# BackImage[0][0][0][0][0]=3x3.0.0
+# BackImage[0][0][1][0][0]=3x3.0.1
+# BackImage[0][0][2][0][0]=3x3.0.1
+# BackImage[0][0][3][0][0]=3x3.0.2
+# BackImage[0][1][0][0][0]=3x3.1.0
+# BackImage[0][1][1][0][0]=3x3.1.1
+# BackImage[0][1][2][0][0]=3x3.1.1
+# BackImage[0][1][3][0][0]=3x3.1.2
+# BackImage[0][2][0][0][0]=3x3.1.0
+# BackImage[0][2][1][0][0]=3x3.1.1
+# BackImage[0][2][2][0][0]=3x3.1.1
+# BackImage[0][2][3][0][0]=3x3.1.2
+# BackImage[0][3][0][0][0]=3x3.2.0
+# BackImage[0][3][1][0][0]=3x3.2.1
+# BackImage[0][3][2][0][0]=3x3.2.1
+# BackImage[0][3][3][0][0]=3x3.2.2

@@ -11,8 +11,8 @@ pak64のアドオンの導入が可能です。
 リリースページから `pak64.map.zip` をダウンロードし、他のパックセット同様にsimutransフォルダに設置してください。 
 https://github.com/128na/pak64.map/releases
 
-## TIPS
-左側通行の設定や影の扱い方などのTIPS
+## ドキュメント
+左側通行の設定や影の扱い方などのTIPSやその他ドキュメント類
 
 - [TIPS](./docs/tips.md)
 - [命名則](./docs/naming_rule.md)
